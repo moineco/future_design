@@ -1,1 +1,3 @@
 # Renewable Resources
+
+![](figures/FD_1.PNG){fig-align="right" width="100"}

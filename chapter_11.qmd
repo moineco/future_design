@@ -1,1 +1,3 @@
-#  Future Failures: Disruption of Carbon Cycle and Nitrogen Cycle
+# Future Failures: Disruption of Carbon Cycle and Nitrogen Cycle
+
+![](figures/FD_1.PNG){fig-align="right" width="100"}

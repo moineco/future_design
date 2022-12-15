@@ -1,1 +1,3 @@
 # Climate: The Ultimate Resource
+
+![](figures/FD_1.PNG){fig-align="right" width="100"}

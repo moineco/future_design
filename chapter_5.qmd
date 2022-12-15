@@ -1,1 +1,3 @@
 # The Sustainable Development Goals (SDGs)
+
+![](figures/FD_1.PNG){fig-align="right" width="100"}

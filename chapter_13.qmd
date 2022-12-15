@@ -1,1 +1,3 @@
 # Future Design: Sustainable Environments and Societies
+
+![](figures/FD_1.PNG){fig-align="right" width="100"}

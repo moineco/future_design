@@ -1,1 +1,3 @@
 # Optimal Depletion of Exhaustible Resources
+
+![](figures/FD_1.PNG){fig-align="right" width="100"}

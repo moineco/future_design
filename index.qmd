@@ -1,3 +1,6 @@
 # Preface {.unnumbered}
 
-Future Design
+What types of social systems are necessary if we are to leave future generations sustainable
+natural environments and sustainable societies? There are various matters, such as climate change, energy issues, social security, and government debt, which need to be dealt with using a long-term perspective. At the core of these issues is conflict between the interests of different generations.
+
+![](figures/FD_logo.png){fig-align="center" width="300"}
