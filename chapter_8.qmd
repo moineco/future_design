@@ -1,0 +1,78 @@
+# The Environment and Economics
+
+## What is Environmental Economics:
+
+### Definition:
+
+**Environmental economics** is concerned with the impact of the economy on the environment, the significance of the environment to the economy, and the appropriate way of regulating economic activity so that balance is achieved among environmental, economic, and other social goals.
+
+### Natural resources for the future:
+
+Natural resources provide the foundation for the goods, services and infrastructure that make up our current socio-economic systems.
+
+-   Biomass (wood, crops, including food, fuel, feedstock and plant-based materials)
+-   Fossil fuels (coal, gas and oil)
+-   Metals (such as iron, aluminum and cooper)
+-   Non-metallic minerals (including sand, gravel and limestone)
+-   Land
+-   Water
+
+The use of natural resources has more than tripled from 1970, and continues to grow. Historical and current patterns of natural resource use are resulting in increasingly negative impacts on the environment and human health. The use of natural resources and the related benefits and environmental impacts are unevenly distributed across countries and regions. Without urgent and concerted action, rapid growth and inefficient use of natural resources will continue to create unsustainable pressures on the environment.
+
+There is no question that today environmental protection is recognized by societies and governments around the world, in both developed and developing nations, as being a top public policy and quality-of-life issue. Although people have been concerned about environmental quality for decades, or even centuries, the widespread societal recognition of the importance of environmental protection is a relatively recent phenomenon.
+
+## Environmental Economics and Environmental Policy:
+
+**A. In the presence of few people, environment can cleansing itself automatically**
+
+-   If there were few people in the world, the earth's environment would be very forgiving and capable of absorbing most of what humans throw at it, **cleansing itself** automatically. The days of **low population** on the earth have passed; the total number of people on the planet and particularly the density of people in some parts of the planet magnify the size of environmental insults, overloading the capacity of the earth for self-cleansing.
+
+![Figure 8.1(Source: Ordukhani et. al, 2022)](figures/L8/L8_1.jpg){width="803"}
+
+**B. Environmental issues often take a backseat to other more pressing needs related to survival**
+
+-   **Income** is also important, not only because rich people tend to consume more and thus generate more pollution, but also because the environment is often viewed as a luxury good. For the poor who struggle to keep food on the table, environmental issues often take a backseat to other more pressing needs related to survival. As people become wealthier, they turn their attention increasingly to the quality of their living environment, which ultimately is the planet.
+
+**C. Challenges to define right amount of pollution**
+
+-   What are the typical issues facing most countries of the world with regard to environmental policy? In developed countries, **pollution** and the **preservation of natural environments** (e.g., wilderness areas) are major concerns. Pollution problems usually involve two major issues-what is the right amount of pollution and how can we get polluters to control their emissions?
+
+![Figure 8.2(Source: https://climatekids.nasa.gov/air-pollution/)](figures/L8/L8_2.png){width="803"}
+
+-   Determining the **right amount of pollution** is not easy. Pollution is generated as a by-product of producing goods. To determine the costs of pollution control it is necessary to understand the structure of goods production and how costs will differ for different levels of pollution. Determining the right amount of pollution also involves determining damages from pollution. The words "damages from pollution" deceptively suggest that this is a natural science question, such as counting the dead fish on a polluted lake or determining the level of pollution at which people begin to get sick.
+
+-   **Air pollution** in an urban area can cause physical irritation (itchy eyes, running nose), reduced visibility, degraded visibility, decreased lung capacity, increased susceptibility to illness, and of course illness itself. Some of these effects are **tangible**, others are very **intangible**.
+
+-   Economics is accustomed to condensing this variety of effects into a single measure the **willingness to pay** to reduce pollution. If pollution is bad, people are willing to devote some of their resources to eliminating the pollution.
+
+-   The **government could tell** each polluter how much to emit, but this would be analogous to central planning in the old Soviet Union-we know it works up to a point but has severe problems, particularly when there are many firms and polluters involved.
+
+-   So the "simple" job of fixing the problem of pollution is **not so easy at the policy level** and can involve hard-to-solve problems, many in the domain of environmental economics.
+
+-   The examples we have used are from developed economies but a very similar analysis could apply to a **developing country**. Air pollution is a big problem in many cities of the developing world. Water pollution is probably the most severe environmental problem in many developing countries: water contaminated by human waste kills millions of people annually.
+
+**D. Challenges to define natural environments**
+
+-   Another important type of policy question is the preservation of **natural environments, broadly defined**. This could involve preserving wild and scenic areas from development or protecting animal and plant species from extinction.
+
+-   The point is that environmental protection usually involves the intervention of governments in the economy and it is often difficult to decide on the proper extent and nature of that intervention. Environmental economics as it is **applied to real environmental problems** can be invaluable in helping make those important decisions.
+
+## Sustainability
+
+The World Commission on Environment and Development (Brundtland Commission) defines sustainability as "development that meets the needs of the present without compromising the ability of future generations to meet their own needs".
+
+## Environmental Economics and Economics
+
+-   Economics is a well-developed discipline with an extensive body of theory, a paradigm associated with how the economic world works, strong empirical tools, and a number of branches, or fields of study, associated with pieces of the economy.
+
+-   The fundamental building blocks of economics are contained in microeconomics- the theory of the consumer, the theory of the firm, and the theory of market interaction. This forms the basis for nearly all of economics. Related to microeconomics is the branch of statistics applied to economic phenomena--- econometrics. Microeconomics permeates all of economics and econometrics permeates all of applied economics.
+
+-   Branching out from basic microeconomic theory are the several fundamental fields of economics. These would include macroeconomics (the study of aggregate as opposed to individual phenomena), public finance (the study of goods not provided by the market and the study of taxation), industrial organization (the in depth study of how firms interact with each other and with consumers and organize themselves into industries), and international trade (concerned with how distinct and independent economies interact). Each of these major fields is concerned with major portions of economic activity and each has unique contributions to make to the overall study of economics.
+
+-   Environmental economics is an applied field, like many other applied fields in economics. Much of environmental economics involves adapting concepts developed in other branches of economics (particularly public finance and industrial organization) and applying them to environmental problems. Some aspects of environmental economics are unique to the field (such as valuation, mentioned above) and have potential use in economics outside of the environmental economics field.
+
+**Quiz 8**
+
+Please check the KUTLMS.
+
+**Reference: Charles D. Kolstad (2010), Environmental Economics (2nd Edition), Oxford University Press, New York**

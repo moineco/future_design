@@ -1,0 +1,87 @@
+# Future Studies
+
+## What is Future Studies
+
+-   A study that seeks to systematically understand what can happen in the future, as well as the probability, certainty, and pattern of future events based on an understanding of events from the past to the present (Andersson, 2018).
+
+-   The study of 3Ps, possible, probable and preferable futures (Marien, 2002).
+
+## Purpose of future studies
+
+-   According to Kuosa (2011), the purpose of future studies are thinking, understanding, and predicting the future and its changes in advance. More specifically,
+
+1.  Creating rich future images, visions, and scenarios
+2.  Improving planning, decision-making, and strategy planning skills
+3.  Helping solve major problems common to humanity
+
+![](figures/L4/L4_10.jpg){width="500" height="300"}
+
+## Current status of future studies
+
+-   "Futures" is an academic journal on future studies that has been running for over 50 years.
+
+![](figures/L5/L5_2.png){width="300" height="300"}
+
+**Challanges:**
+
+-   Many future studies approaches are mixed
+-   "Quantitative analysis" and "reproducibility'" are not considered important.
+-   Not sure if there is a standard approach
+
+**The most applied topics are:**
+
+### Visioning
+
+-   What is Vision
+
+According to Hornby (2013) and Pearson Education (2014) definition:
+
+1.  Ability to see and its visible range
+2.  Ability to think and plan the future through ideas and imagination of what it should be.
+3.  Ability to think and plan the future through imagination
+
+-   What is Visioning
+
+The process of developing and deriving a vision from the ideal future in order to improve planning, decision making, and strategic planning (O'Brien and Meadows, 2001).
+
+#### Specific steps for forming a vision using Visioning
+
+According to O'Brien and Meadows (2001):
+
+![](figures/L4/L4_11.png){width="600" height="300"}
+
+### Backcasting
+
+-   Establishing a future image, vision, and goals. It is a tool for formulating strategies that contribute to achieving these goals and solving problems (Kuosa, 2011).
+
+![](figures/L4/L4_12.png){width="600" height="250"}
+
+Backcasting has 5 steps:
+
+![](figures/L4/L4_13.png){width="600" height="300"}
+
+-   There is not enough literature on whether Backcasting is applied in business settings and whether it is effective.
+
+Backcasting: example
+
+![](figures/L6/L6_5.png){.absolute top="400" right="800" width="100" height="50"}
+
+![](figures/L6/L6_3.png){.absolute top="100" right="600" width="500" height="300"}
+
+![](figures/L6/L6_6.png){.absolute top="400" right="300" width="100" height="50"}
+
+![](figures/L6/L6_4.png){.absolute top="100" right="100" width="500" height="300"}
+
+## Quiz 4: Measuring the Social Generativity Scale
+
+We will use a 7 point Likert scale to measure the Social Generativity Scale.
+
+What is a Likert scale?
+
+-   A Likert scale is a psychometric scale commonly involved in research used to represent people's opinions and attitudes to a topic or subject matter.
+
+-   In 1932, Rensis Likert, a psychologist interested in measuring people's opinions or attitudes on a variety of items, developed the original Likert scale. Today, Likert scales are widely used in social and educational research.
+
+-   Though there are several kinds of Likert scales you can use in your surveys, two of the most popular are the 5-point and 7-point Likert scales.
+
+**Copyright\@2023 Research Institute for Future Design**

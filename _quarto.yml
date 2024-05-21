@@ -1,0 +1,38 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Future Design"
+  author: "Moinul Islam"
+  date: "04/01/2024"
+  chapters:
+    - index.qmd
+    - chapter_1.qmd
+    - chapter_2.qmd
+    - chapter_3.qmd
+    - chapter_4.qmd
+    - chapter_5.qmd
+    - chapter_6.qmd
+    - chapter_7.qmd
+    - chapter_8.qmd
+    - chapter_9.qmd
+    - chapter_10.qmd
+    - chapter_11.qmd
+    - chapter_12.qmd
+    - chapter_13.qmd
+    - chapter_14.qmd
+    - chapter_15.qmd
+    #- chapter_16.qmd
+    - references.qmd
+
+bibliography: future_design.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

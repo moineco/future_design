@@ -1,0 +1,88 @@
+# Preface {.unnumbered}
+
+What types of social systems are necessary if we are to leave future generations sustainable natural environments and sustainable societies? Why do we keep changing the future Earth's environment and taking away resources from future generations? Following the Industrial Revolution various innovations took place and we began using massive amounts of fossil fuel. Despite being the cause of the various future failures, this has built a society that blindly focuses on economic growth.
+
+An ideal society seeks to balance the needs of the present without compromising the ability of future generations to meet their own needs. Through "future design", we can foster harmony between human activities and the natural environment, promote social equity, and ensure economic prosperity in a way that is regenerative and resilient.
+
+This course aims to explore the intersection of "future design" and "sustainable development", delving into various topics, methodologies, and case studies that exemplify these principles in action. From sustainable architecture and urban planning to circular economy practices, renewable energy solutions, and socially responsible design, we will embark on a journey that challenges conventional thinking and empowers us to envision and create a more sustainable future.
+
+This course also acknowledges the inherent complexity and multifaceted nature of the challenges we face. It recognizes that achieving sustainability requires a collaborative and interdisciplinary approach, involving experts from diverse fields, as well as active engagement from communities, businesses, and policymakers. By embracing this shared responsibility, we can forge a collective vision and work towards a common goal.
+
+This course will consider the existence of *Future design* in an intersection of *Experimental Economics*, *Environmental Economics* and *Future studies*.
+
+![](figures/Index/figure_1.png){fig-align="center" width="507"}
+
+Together, let us embark on this inspiring quest to design a better world---one that cherishes the planet, honors our shared humanity, and ensures a prosperous and thriving future for generations to come.
+
+## Syllabus of Future Design
+
+(フューチャー・デザイン)
+
+**Section 1: What is Future Design**
+
+-   Lecture 1: Introduction to Future Design
+
+-   Lecture 2: Future Design: Combination of Three Academic Disciplines
+
+-   Lecture 3: Future Design: From the Perspective of Economics
+
+-   Lecture 4: Future Studies
+
+-   Lecture 5: Scenario Planning
+
+-   Lecture 6: Originality of Future Design
+
+**Section 2: Future Design and Environmental Economics**
+
+-   Lecture 7: Population Growth and Well-Being
+
+-   Lecture 8: The Environment and Economics
+
+-   Lecture 9: The Quality of the Environment
+
+-   Lecture 10: Globalization and the Environment
+
+-   Lecture 11: Market Failure: Public Goods, Public Bads and Externalities
+
+-   Lecture 12: Future Failures: Disruption of $C$ Cycle and $N$ Cycle
+
+-   Lecture 13: The Economics of Biodiversity
+
+-   Lecture 14: The Economics of Climate Change
+
+-   Lecture 15: Environmental Goods Valuation
+
+### Course logistic
+
+Class schedule in 4Q:
+
+-   Tuesday from 10:30 AM to 12:00 PM
+-   Friday from 10:30 AM to 12:00 PM
+
+Class room: C101, Kami Campus, Kochi University of Technology
+
+### Grading
+
+Your grade evaluation will depend on following three factors:
+
+| Performance                               | Weight |
+|-------------------------------------------|--------|
+| a\. Attendance                            | 10%    |
+| b\. Answering the assignments and quizzes | 40%    |
+| c\. Final examination (TBA)               | 50%    |
+
+### Assignment submission
+
+Regarding the assignments, you have to write at least **100 words** (in English) to get evaluated. Writing with logical explanation and examples are the main criteria of evaluation. If you can create exceptional arguments to support your discussion, I will provide bonus points for that assignment.
+
+### Quiz submission
+
+There is no word limit for quiz submission. Most of the quizzes are short and instantaneous.
+
+### Instructor
+
+Moinul Islam, Assistant Professor, Research Institute for Future Design & School of Economics and Management, Kochi University of Technology, Japan.
+
+### rifd.kut\@gmail.com
+
+Office hours: By appointment, please email

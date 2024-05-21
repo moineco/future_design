@@ -1,0 +1,26 @@
+# Scenario Planning
+
+## What is scenario planning
+
+-   Identify and analyze uncertainty and ambiguity about the current situation and future
+-   Setting multiple scenarios based on 3P criteria to determine what kind of future could occur
+-   Deciding and implementing "new strategies" and "actions" based on several criteria
+
+![](figures/L4/L4_14.png){width="600" height="250"}
+
+## Specific steps of Scenario planning
+
+![](figures/L5/L5_9.png){width="600" height="350"}
+
+### Application：Scenario planning
+
+-   In energy companies, aerospace industries, etc. that require very large initial investments.
+-   It is actually applied to anticipate future demands and social changes.
+
+![](figures/L5/L5_10.png){width="600" height="350"}
+
+### Summary of Future Studies
+
+![](figures/L5/L5_11.png){width="600" height="350"}
+
+**Copyright\@2023 Research Institute for Future Design**

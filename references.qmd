@@ -1,0 +1,20 @@
+# References {.unnumbered}
+
+1.  Charles D. Kolstad (2010), Environmental Economics, 2nd Edition (Oxford University Press, New York 2010).
+
+2.  Schippers, M., and Ziegler, N. (2019). Life crafting as a way to find purpose and meaning in life. Frontiers in Psychology, 10, 2778.
+
+3.  Nurra, C., and Oyserman, D. (2018). From future self to current action: An identity-based motivation perspective. Self and Identity, 17, 343-364.
+
+4.  Frankl, V. E. (2014). The will to meaning: Foundations and applications of logotherapy. Penguin.
+
+5.  Kang, Y., Strecher, V., Kim, E., and Falk, E. (2019). Purpose in life and conflict-related neural responses during health decision-making. Health Psychology, 38, 545.
+
+6.  Kim, E., Strecher, V., and Ryff, C. (2014). Purpose in life and use of preventive health care services. Proceedings of the National Academy of Sciences, 111, 16331-16336.
+
+7.  Freedland, K. E. (2019). The behavioral medicine research council: Its origins, mission, and methods. Health Psychology, 38, 277.
+
+8.  Hill, P., and Turiano, N. (2014). Purpose in life as a predictor of mortality across adulthood. Psychological Science, 25, 1482-1486.
+
+::: {#refs}
+:::
