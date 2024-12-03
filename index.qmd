@@ -56,8 +56,8 @@ Together, let us embark on this inspiring quest to design a better world---one t
 
 Class schedule in 4Q:
 
--   Tuesday from 10:30 AM to 12:00 PM
--   Friday from 10:30 AM to 12:00 PM
+-   Tuesday from 13:00 to 14:30
+-   Friday from 13:00 to 14:30
 
 Class room: C101, Kami Campus, Kochi University of Technology
 
@@ -69,7 +69,7 @@ Your grade evaluation will depend on following three factors:
 |-------------------------------------------|--------|
 | a\. Attendance                            | 10%    |
 | b\. Answering the assignments and quizzes | 40%    |
-| c\. Final examination (TBA)               | 50%    |
+| c\. Final examination/report (TBA)               | 50%    |
 
 ### Assignment submission
 
@@ -81,8 +81,10 @@ There is no word limit for quiz submission. Most of the quizzes are short and in
 
 ### Instructor
 
-Moinul Islam, Assistant Professor, Research Institute for Future Design & School of Economics and Management, Kochi University of Technology, Japan.
+Moinul Islam, Associate Professor, Research Institute for Future Design & School of Economics and Management, Kochi University of Technology, Japan.
 
-### rifd.kut\@gmail.com
+#### rifd.kut\@gmail.com
+
+#### KUTLMS Moodle key: future
 
 Office hours: By appointment, please email
