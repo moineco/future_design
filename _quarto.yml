@@ -5,7 +5,7 @@ project:
 book:
   title: "Future Design"
   author: "Moinul Islam"
-  date: "04/01/2024"
+  date: today
   chapters:
     - index.qmd
     - chapter_1.qmd
