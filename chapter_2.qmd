@@ -74,7 +74,9 @@ Source: <https://www.nationalgeographic.com/history/article/who-were-the-neander
 -   Diet: meat, plants and fungi, shellfish when available
 -   Species named in: 1864 - Name meaning: 'human from the Neander Valley'
 
-## Quiz 2: Calculate your Meaning in Life score
+### Quiz 2: Please check the KUTLMS.
+
+## Calculate your Meaning in Life score
 
 ### INSTRUCTIONS FOR SCORING
 
@@ -142,4 +144,4 @@ o You may not always be satisfied with your life, or yourself, and you might not
 
 o You may not experience emotions like love and joy that often.
 
-**Copyright\@2023 Research Institute for Future Design**
+**Copyright\@2024 Research Institute for Future Design**

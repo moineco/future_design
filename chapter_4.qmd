@@ -84,4 +84,4 @@ What is a Likert scale?
 
 -   Though there are several kinds of Likert scales you can use in your surveys, two of the most popular are the 5-point and 7-point Likert scales.
 
-**Copyright\@2023 Research Institute for Future Design**
+**Copyright\@2024 Research Institute for Future Design**
