@@ -8,11 +8,7 @@ This course aims to explore the intersection of "future design" and "sustainable
 
 This course also acknowledges the inherent complexity and multifaceted nature of the challenges we face. It recognizes that achieving sustainability requires a collaborative and interdisciplinary approach, involving experts from diverse fields, as well as active engagement from communities, businesses, and policymakers. By embracing this shared responsibility, we can forge a collective vision and work towards a common goal.
 
-This course will consider the existence of *Future design* in an intersection of *Experimental Economics*, *Environmental Economics* and *Future studies*.
-
-![](figures/Index/figure_1.png){fig-align="center" width="507"}
-
-Together, let us embark on this inspiring quest to design a better world---one that cherishes the planet, honors our shared humanity, and ensures a prosperous and thriving future for generations to come.
+This course will consider the existence of *Future design* in an intersection of *Experimental Economics*, *Environmental Economics* and *Public Policy*.
 
 ## Syllabus of Future Design
 
