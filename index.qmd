@@ -26,25 +26,27 @@ Together, let us embark on this inspiring quest to design a better world---one t
 
 -   Lecture 3: Future Design: From the Perspective of Economics
 
--   Lecture 4: Future Studies
-
--   Lecture 5: Scenario Planning
-
--   Lecture 6: Originality of Future Design
-
 **Section 2: Future Design and Environmental Economics**
 
--   Lecture 7: Population Growth and Well-Being
+-   Lecture 4: Population Growth and Well-Being
 
--   Lecture 8: The Environment and Economics
+-   Lecture 5: The Environment and Economics
 
--   Lecture 9: The Quality of the Environment
+-   Lecture 6: The Quality of the Environment
 
--   Lecture 10: Globalization and the Environment
+-   Lecture 7: Globalization and the Environment
 
--   Lecture 11: Market Failure: Public Goods, Public Bads and Externalities
+-   Lecture 8: Market Failure: Public Goods, Public Bads and Externalities
 
--   Lecture 12: Future Failures: Disruption of $C$ Cycle and $N$ Cycle
+-   Lecture 9: Future Failures: Disruption of $C$ Cycle and $N$ Cycle
+
+**Section 3: Future Design and Public Policy**
+
+-   Lecture 10: Public goods and cost-benefit analysis
+
+-   Lecture 11: State and local government expenditures
+
+-   Lecture 12: Income distribution and welfare programs
 
 -   Lecture 13: The Economics of Biodiversity
 
