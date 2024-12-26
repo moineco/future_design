@@ -6,6 +6,8 @@ Most international economists view the first claim as simplistic and disagree wi
 
 ## The Environmental Kuznets Curve (EKC)
 
+### The inverted U-shaped EKC
+
 -   Empirical evidence suggests that as economies grow, they initially do increasing environmental damage--but they become more environmentally friendly once they become sufficiently rich. China, where the environment is deteriorating as the economy expands, is in effect moving from A to B. Richer countries may be moving from C to D, using some of their growth to improve the environment.
 
 ![Figure: Environmental Kuznet Curve](figures/L10/L10_1.jpg)
@@ -17,6 +19,14 @@ Most international economists view the first claim as simplistic and disagree wi
 -   But when a country gets sufficiently rich, it can afford to take action to protect the environment. As the United States has grown richer in recent decades, it has also moved to limit pollution. For example, cars are required to have catalytic converters that reduce smog, and a government-licensing scheme limits emissions of sulfur dioxide from power plants. In terms of Figure 9a, the United States has on some fronts, such as local air pollution, moved from C to D: growing richer and doing less damage to the environment. Figure 9b shows different stages of EKC.
 
 ![Figure: Different stages in EKC](figures/L10/L10_2.jpg)
+
+### The N-shaped EKC
+
+-   Scholars supporting N-shaped EKC have proposed a different theory. They believed that even at a higher stage of economic development if innovation cannot keep up with the speed of economic growth and the increase in technological effects is slower than the scale effect, environmental pollution may reappear (Lorente and Álvarez-Herranz, 2016).
+
+-   In other words, the shape of the EKC may extend from an inverted U-shape to an N-shape. This N-shaped model assumes that economic growth leads to environmental degradation that reverses with economic progress after reaching a positive peak and that pollution levels approach a negative peak before starting to rise again with further economic progress.
+
+![Figure: N-shaped EKC](figures/L10/L10_4.png){width="766"}
 
 ## What does Kuznet Curve have to do with international trade?
 
