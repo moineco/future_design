@@ -26,9 +26,9 @@ Most international economists view the first claim as simplistic and disagree wi
 
 -   In other words, the shape of the EKC may extend from an inverted U-shape to an N-shape. This N-shaped model assumes that economic growth leads to environmental degradation that reverses with economic progress after reaching a positive peak and that pollution levels approach a negative peak before starting to rise again with further economic progress.
 
-- Compared with the inverted U-shaped EKC, the most critical gap lies in the rebound of environmental pollution in the third stage. Scholars refer to this pattern as the technological obsolescence effect, representing the re-emergence of scale effects and overcoming the compositional and technological effects that preceded the second turning point (Lorente and Álvarez-Herranz, 2016; Balsalobre-Lorente et al., 2018). 
+-   Compared with the inverted U-shaped EKC, the most critical gap lies in the rebound of environmental pollution in the third stage. Scholars refer to this pattern as the technological obsolescence effect, representing the re-emergence of scale effects and overcoming the compositional and technological effects that preceded the second turning point (Lorente and Álvarez-Herranz, 2016; Balsalobre-Lorente et al., 2018).
 
-- The emergence of this phenomenon is believed to be related to neglected environmental regulations and slow technological innovation. 
+-   The emergence of this phenomenon is believed to be related to neglected environmental regulations and slow technological innovation.
 
 ![Figure: N-shaped EKC](figures/L10/L10_4.png){width="766"}
 
