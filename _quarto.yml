@@ -32,7 +32,9 @@ bibliography: future_design.bib
 
 format:
   html:
-    theme: cosmo
+    theme: 
+       light: cosmo
+       dark: darkly
   pdf:
     documentclass: scrreprt
 

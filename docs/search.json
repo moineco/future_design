@@ -474,7 +474,7 @@
     "href": "chapter_9.html",
     "title": "6  The Quality of the Environment",
     "section": "",
-    "text": "6.1 Main categories of environmental problems\nHuman activity is transforming nearly all of Earth’s natural systems. With the human population now exceeding 8 billion people and rapid growth in per capita consumption of goods and services, humanity’s growing ecological footprint is altering the planet’s land cover, rivers and oceans, climate system, biogeochemical cycles, and the functioning of its ecosystems (Foley, J., et. al., 2005).\nPollution is a problem historically\nPollution problems are not new to mankind. It has always been the case that urban areas have bad pollution problems, primarily because of the large concentrations of people. People are associated with emissions as well as being the reason pollution is damaging. What is new is the magnitude of the problem and the fact that the world is no longer infinite compared to the ability of people to pollute.\nPopulation growth and the high standard of living make the pollution problem significant\nThe enormous size of our current world’s population and the high standard of living of portions of the population are responsible for the pressures on the environment. A larger economy generates more pollution, all other things being equal; richer citizens usually demand higher levels of environmental quality. And as long as the world becomes more populated and wealthier, the pressures will only increase. This is not to say environmental problems cannot be solved, only that it will become increasingly difficult to protect the earth’s environment.\nWe focus on four main categories of environmental problems: (A) air pollution, (B) water pollution, (C) toxic emissions, and (D) ecosystem health.",
+    "text": "6.1 Main categories of environmental problems\nWe focus on four main categories of environmental problems: (A) air pollution, (B) water pollution, (C) toxic emissions, and (D) ecosystem health.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Quality of the Environment</span>"
     ]
@@ -504,7 +504,7 @@
     "href": "chapter_10.html",
     "title": "7  Globalization and the Environment",
     "section": "",
-    "text": "7.1 The Environmental Kuznets Curve (EKC)\nConcerns about human impacts on the environment are growing in much of the world. In turn, these concerns are playing a growing role in domestic politics. environmental issues are playing a growing role in disputes about international trade as well. Some anti-globalization activists claim that growing international trade automatically harms the environment; some also claim that international trade agreements—and the role of the World Trade Organization in particular—have the effect of blocking environmental action.\nMost international economists view the first claim as simplistic and disagree with the second. That is, they deny that there is a simple relationship between globalization and environmental damage and do not believe that trade agreements prevent countries from having enlightened environmental policies. Nonetheless, the intersection of trade and the environment does raise a number of important issues.",
+    "text": "7.1 The Environmental Kuznets Curve (EKC)",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Globalization and the Environment</span>"
     ]
@@ -584,7 +584,7 @@
     "href": "chapter_12.html",
     "title": "9  Future Failures: Disruption of C-Cycle and N-Cycle",
     "section": "",
-    "text": "9.1 Carbon (\\(C\\))\nAbout 99% of the mass of the human body is made up of six elements: oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus.\nCarbon: the building block of life. All living things are made of elements, the most abundant of which are, oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorous. Carbon is also present in the Earth’s atmosphere, soils, oceans, and crust.",
+    "text": "9.1 Carbon (\\(C\\))\nCarbon: the building block of life. All living things are made of elements, the most abundant of which are, oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorous. Carbon is also present in the Earth’s atmosphere, soils, oceans, and crust.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Future Failures: Disruption of C-Cycle and N-Cycle</span>"
     ]
@@ -614,7 +614,7 @@
     "href": "chapter_13.html",
     "title": "13  The Economics of Biodiversity",
     "section": "",
-    "text": "13.1 Classifying and Valuing Assets\nBiological diversity, or biodiversity for short, means the diversity of life in all its forms. Biodiversity is a characteristic of ecosystems which enables ecosystems to flourish.\nOur demand for food, water, timber, fibre, minerals, and the dams that are built to supply water and produce electricity visibly destroy biodiversity. By tearing the landscape apart, mining and quarrying are also significant factors in biodiversity loss. Substitution of produced capital (roads, buildings ports, machines) for natural capital (ecosystems) has not only characterized our investment activities but also shaped our conception of economic progress.",
+    "text": "13.1 Classifying and Valuing Assets",
     "crumbs": [
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>The Economics of Biodiversity</span>"
     ]
@@ -754,7 +754,7 @@
     "href": "chapter_15.html",
     "title": "15  Environmental Goods Valuation",
     "section": "",
-    "text": "15.1 A. Use value of environmental goods\nThere is a wide variety of goods that fall under the rubric of environmental goods. Included would be commodities such as air quality and water quality. Also included would be amenity values such as a beautiful vista over land or ocean or, negatively characterized, a smoggy vista over a city. Even more distant from the conventional notion of a good might be the existence of a species.\nNo matter how esoteric or intangible the environmental good might be, its protection usually requires money. And it is usually appropriate to inquire how much people are willing to contribute to protect that environmental good. Eliciting true values is not easy; but that does not diminish the validity of the principle of demand for environmental goods and services.\nThe challenge to economists is to be comprehensive, viewing all aspects of the environment, over which people have preferences, within the paradigm of consumer theory. The environment is a very complex place. In understanding the value of the environment, it helps to use a classification scheme.\nFrom: Bateman,I.J. (1999) Environmental impact assessment, cost-benefit analysis and the valuation of environmental impacts, in Petts, J. (ed.) Handbook of Environmental Impact Assessment, Vol.1, Blackwell Science, Oxford, pp. 93–120.\nUse value is the conventional notion of value associated with the consumption of a good. In the case of an environmental good, this could include current use (“I am currently visiting the park”), expected use (“I plan to visit the park later this year”), and possible use (“I might visit the park within the next 10 years”).\nThere are several primary avenues whereby environmental goods impact humans.",
+    "text": "15.1 A. Use value of environmental goods\nUse value is the conventional notion of value associated with the consumption of a good. In the case of an environmental good, this could include current use (“I am currently visiting the park”), expected use (“I plan to visit the park later this year”), and possible use (“I might visit the park within the next 10 years”).\nThere are several primary avenues whereby environmental goods impact humans.",
     "crumbs": [
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Environmental Goods Valuation</span>"
     ]
@@ -844,7 +844,7 @@
     "href": "chapter_16.html",
     "title": "10  Public Goods and Publicily Provided Private Goods",
     "section": "",
-    "text": "The government supplies a wide variety of goods, from national defense to education to police and fi re protection. Some of these goods, like education, are also provided privately; others, like national defense, are the exclusive province of government. What are the economic properties of such goods? How do they diff er from goods such as ice cream, automobiles, and the myriad of other goods that are provided principally through private markets?\n\n10.0.1 Reference:\n\nJoseph E. Stiglitz, Jay K. Rosengard, Economics of the Public Sector, 4th Edition, Norton, New York, 2015",
+    "text": "TBA\nThe government supplies a wide variety of goods, from national defense to education to police and fire protection. Some of these goods, like education, are also provided privately; others, like national defense, are the exclusive province of government. What are the economic properties of such goods? How do they diff er from goods such as ice cream, automobiles, and the myriad of other goods that are provided principally through private markets?\n\n10.0.1 Reference:\n\nJoseph E. Stiglitz, Jay K. Rosengard, Economics of the Public Sector, 4th Edition, Norton, New York, 2015",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Public Goods and Publicily Provided Private Goods</span>"
     ]
