@@ -1,9 +1,9 @@
-# Public Goods and Publicily Provided Private Goods
+# Public Goods and Publicly Provided Private Goods
 
 TBA
 
 The government supplies a wide variety of goods, from national defense to education to police and fire protection. Some of these goods, like education, are also provided privately; others, like national defense, are the exclusive province of government. What are the economic properties of such goods? How do they diff er from goods such as ice cream, automobiles, and the myriad of other goods that are provided principally through private markets?
 
-### Reference:
+**References:**
 
 -   Joseph E. Stiglitz, Jay K. Rosengard, Economics of the Public Sector, 4th Edition, Norton, New York, 2015
