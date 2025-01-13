@@ -73,18 +73,22 @@ Examples of goods and bads:
 +-------------------+----------------------------------------+-----------------------------------------------+
 |                   | Rival                                  | Nonrival                                      |
 +===================+========================================+===============================================+
-| **Excludable**    | Goods: Burger                          | Goods: Local public beach with access control |
+| **Excludable**    | **Private goods**                      | **Club goods**                                |
+|                   |                                        |                                               |
+|                   | Goods: Burger                          | Goods: Local public beach with access control |
 |                   |                                        |                                               |
 |                   | Bads: Household garbage today          | Bads: Water pollution in small lake           |
 +-------------------+----------------------------------------+-----------------------------------------------+
-| **Nonexcludable** | Goods: Fishery                         | Goods: National defense or                    |
+| **Nonexcludable** | **Open access resources**              | **Pure public goods**                         |
+|                   |                                        |                                               |
+|                   | Goods: Fishery                         | Goods: National defense or                    |
 |                   |                                        |                                               |
 |                   | Bads: Household garbage in Middle Ages | global climate                                |
 |                   |                                        |                                               |
 |                   |                                        | Bads: Greenhouse gases                        |
 +-------------------+----------------------------------------+-----------------------------------------------+
 
-**Quiz 11**
+**Quiz:**
 
 Please check the KUTLMS.
 
