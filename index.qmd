@@ -73,9 +73,12 @@ Your grade evaluation will depend on following three factors:
 
 Regarding the assignments, you have to write **20\~200 words** (in English) to get evaluated. Writing with logical explanation and examples are the main criteria of evaluation. If you can create exceptional arguments to support your discussion, I will provide bonus points for that assignment.
 
+#### Submit the assignments through KUTLMS Moodle
+
 ### Quiz submission
 
-There is no word limit for quiz submission. Most of the quizzes are short and instantaneous.
+- There is no word limit for quiz submission. Most of the quizzes are short and instantaneous.
+- Quizes should be available throgh the QR code during the lecture time.
 
 ### Instructor
 
