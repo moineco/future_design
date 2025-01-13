@@ -52,6 +52,10 @@ Pollution is the classic example of a negative externality---a cost that individ
 
 Thus, to the extent that Indian ship breaking pollutes the local environment. this is a problem for India; it's less clear that it is a problem for other countries. Similarly, air pollution in Mexico City is a problem for Mexico; it's not clear why it's a valid U.S. interest. On the other hand, emissions of carbon dioxide affect the future climate for all countries: They're an international externality and deserve to be the subject of international negotiation.
 
+**Assignment:**
+
+Please check the KUTLMS.
+
 **References:**
 
 1.  Paul Krugman, Maurice Obstfeld, and Marc Melitz, International Trade: Theory and Policy, 11th edition.

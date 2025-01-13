@@ -71,6 +71,10 @@ Uses for Ammonia:
 -   88% of ammonia is used to make fertilizers
 -   Ammonia is oxidized to $NO_2$ and $NO_3$ for use in explosives
 
+**Assignment:**
+
+Please check the KUTLMS.
+
 **References:**
 
 1.  Chen, ZM., Ohshita, S., Lenzen, M. et al. Consumption-based greenhouse gas emissions accounting with capital stock change highlights dynamics of fast-developing countries. *Nature Communication* 9, 3581 (2018).

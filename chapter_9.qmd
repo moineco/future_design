@@ -110,6 +110,10 @@ There is a surprising amount of similarity in how countries around the world hav
 
 -   There have been a number of other emission trading schemes in the United States, most prominently the offset system whereby new polluters entering a heavily polluted area may pay existing polluters to reduce emissions.
 
+**Assignment:**
+
+Please check the KUTLMS.
+
 **References:**
 
 1.  Foley, J. A., DeFries, R., Asner, G. P., Barford, C., Bonan, G., Carpenter, S. R., ... & Snyder, P. K. (2005). Global consequences of land use. *Science*, 309(5734), 570-574.
