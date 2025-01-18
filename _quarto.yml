@@ -20,12 +20,12 @@ book:
     - chapter_10.qmd
     - chapter_11.qmd
     - chapter_12.qmd
-    - chapter_16.qmd
-    - chapter_17.qmd
-    - chapter_18.qmd
     - chapter_13.qmd
     - chapter_14.qmd
     - chapter_15.qmd
+    - chapter_16.qmd
+    - chapter_17.qmd
+    - chapter_18.qmd
     - references.qmd
 
 bibliography: future_design.bib
