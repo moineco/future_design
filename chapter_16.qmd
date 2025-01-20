@@ -2,6 +2,10 @@
 
 ## Climate change looms over our future
 
+The Royal Swedish Academy of Sciences has decided to award the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2018 to William D. Nordhaus “for integrating climate change into long-run macroeconomic analysis” and Paul M. Romer “for integrating technological innovations into long-run macroeconomic analysis.”
+
+![Nobel Prize in Economic Sciences 2018](figures/L16/Nobel_2018.png){fig-align="center" width="375"}
+
 Assignment:
 
 Please check the KUTLMS.

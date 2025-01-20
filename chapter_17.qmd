@@ -1,5 +1,9 @@
 # How Institutions Affect Economic Development?
 
+The Prize in Economic Sciences 2024 – Daron Acemoglu, Simon Johnson and James Robinson – have demonstrated the importance of societal institutions for a country’s prosperity. Societies with a poor rule of law and institutions that exploit the population do not generate growth or change for the better. The laureates’ research helps us understand why.
+
+![The Prize in Economic Sciences 2024](figures/L17/Nobel_2024.png){fig-align="center"}
+
 **Assignment:**
 
 Please check the KUTLMS.
