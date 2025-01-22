@@ -32,6 +32,18 @@ moves to the box at the upper right, where the $CO_2$ concentrations and other f
 
 The arrows in the figure represent the linkages between the different parts of the economy-climate-impacts-politics-economy nexus. However, the last two arrows are dashes with question marks. These links do not yet exist. There are no effective international agreements as of 2019 to limit the emissions of carbon dioxide ($CO_2$) and other greenhouse gases. If we continue along our current path of virtually no policies, then the dashed arrows will fade away, and the globe will continue on the dangerous path of unrestrained global warming.
 
+So, what is the DICE model in mathematics? Conceptually, it is a constrained non-linear dynamic optimization model with an infinite horizon. More precisely, in slightly simplified form, we can write it as follows in two equations.
+
+$$ 
+\max_{c(t)} W = \max_{c(t)} \left[ \int_0^\infty U\left(c(t)\right) e^{-\rho t} \, dt \right].......(1) $$
+
+subject to
+
+
+$$ c(t) = M \left[y(t);z(t); \alpha; \epsilon(t)\right].......(2)$$
+
+In the equations, c(t) is consumption; y(t) are other endogenous variables (such as global temperature); z(t) are exogenous variables (such as population); α are parameters (such as climate sensitivity); ρ is the pure rate of time preference; and ε(t) are random variables in the stochastic versions. This highly simplified representation shows an optimization of the path of consumption in (1) subject to a complex constraint in (2). The most challenging part of constructing the DICE model is to determine the structural constraints in (2). In the current version, there are about 20 equations necessary to represent the complex interactions shown in previous figure.
+
 Assignment:
 
 Please check the KUTLMS.
