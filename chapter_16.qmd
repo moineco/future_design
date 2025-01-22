@@ -22,7 +22,15 @@ Global warming is the most significant of all environmental externalities.
 
 ### The circular flow of global warming science, impacts, and policy
 
+The basic structure of the DICE (Dynamic Integrated model of Climate and the Economy) model is shown in following figure. 
+
 ![Source: Nordhaus's Nobel Lecture in Economic Science](figures/L16/Slide_3.jpg){fig-align="center" width="1000"}
+
+The figure displays the logical circular flow from emissions to climate to impacts then to policies and closing the circle back to emissions. The global warming problem
+starts at the upper left box, where economic growth and distorted price signals lead to rapidly rising emissions of $CO_2$ into the atmosphere. The arrow then
+moves to the box at the upper right, where the $CO_2$ concentrations and other forces lead to major changes in the climate system. The changing climate then produces impacts on human and natural systems in the box on the lower right. Finally, the box on the lower left shows societal responses to the threat of climate change.
+
+The arrows in the figure represent the linkages between the different parts of the economy-climate-impacts-politics-economy nexus. However, the last two arrows are dashes with question marks. These links do not yet exist. There are no effective international agreements as of 2019 to limit the emissions of carbon dioxide ($CO_2$) and other greenhouse gases. If we continue along our current path of virtually no policies, then the dashed arrows will fade away, and the globe will continue on the dangerous path of unrestrained global warming.
 
 Assignment:
 
