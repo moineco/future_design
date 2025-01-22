@@ -6,10 +6,30 @@ The Royal Swedish Academy of Sciences has decided to award the Sveriges Riksbank
 
 ![Nobel Prize in Economic Sciences 2018](figures/L16/Nobel_2018.png){fig-align="center" width="375"}
 
+### Climate change as a global public good (bad)
+
+Let's begin with the fundamental problem posed by climate change – that it is a public good (bad) or (negative) externality. Such activities are ones whose costs or benefits spill outside the market and are not captured in market prices. These include positive spillovers like new knowledge and negative spillovers like pollution.
+
+The theory of public goods was developed by Paul Samuelson (1954), the first American Nobel laureate in economics, and it is fundamental to environmental economics today.
+
+The theory of public goods applies as well to climate change. Here, we are speaking of a negative externality or “public bad” in the form of greenhouse gas (GHG) emissions rather than a public good of improved knowledge.
+
+Climate change is a particularly thorny externality because it is global. Global externalities, whose impacts are indivisibly spread around the entire world, are not new.
+
+In earlier centuries, countries faced religious conflicts, marauding armies, and the spread of infectious diseases such as the plague. In the modern world, the older global challenges have not disappeared, while new ones have arisen – including not only global warming but others such as the threat of nuclear proliferation, international financial crises, and the growing threat of cyberwarfare.
+
+Global warming is the most significant of all environmental externalities.
+
+### The circular flow of global warming science, impacts, and policy
+
+![Source: Nordhaus's Nobel Lecture in Economic Science](figures/L16/Slide_3.jpg){fig-align="center" width="1000"}
+
 Assignment:
 
 Please check the KUTLMS.
 
 **References:**
 
--   Nobel Prize Lecture, December 8, 2018 by William D. Nordhaus, Yale University, USA.
+-   Nobel Prize Lecture by William D. Nordhaus and Paul M. Romer.
+
+-   Nordhaus, W. (2019). Climate change: The ultimate challenge for economics. American Economic Review, 109, 1991-2014.

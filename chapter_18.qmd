@@ -12,4 +12,4 @@ Please check the KUTLMS.
 
 **References:**
 
--   Nobel Prize Lecture, David Card, Joshua Angrist and Guido Imbens, 2021
+-   Nobel Prize Lecture by David Card, Joshua Angrist and Guido Imbens.
