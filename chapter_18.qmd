@@ -1,10 +1,10 @@
-# Natural Experiments Help Answer Important Questions
+# How Institutions Affect Economic Development?
 
-The 2021 Nobel Prize in Economic Sciences was awarded to Prof David Card (UC Berkeley), Prof Joshua D. Angrist (MIT), and Prof Guido W. Imbens (Stanford) for pioneering “natural experiments” to help answer important real-world questions. They have provided us with new insights about the labour market and shown what conclusions about cause and effect can be drawn from natural experiments. Their approach has spread to other fields and revolutionised empirical research.
+The Prize in Economic Sciences 2024 – Daron Acemoglu, Simon Johnson and James Robinson – have demonstrated the importance of societal institutions for a country’s prosperity. Societies with a poor rule of law and institutions that exploit the population do not generate growth or change for the better. The laureates’ research helps us understand why.
 
-![The 2021 economic sciences laureates](figures/L18/Nobel_2021.png){fig-align="center"}
+![The Prize in Economic Sciences 2024](figures/L17/Nobel_2024.png){fig-align="center"}
 
-If we are to make good decisions, we must understand the consequences of our choices. This applies to individuals as well as public policy makers: young people who are making educational choices want to know how these affect their future income; politicians considering a range of reforms want to know how these affect employment and income distribution, for example. However, answering broad questions about cause and effect is not easy, because we will never know what would have happened if we had made a different choice.
+TBA
 
 **Assignment:**
 
@@ -12,4 +12,4 @@ Please check the KUTLMS.
 
 **References:**
 
--   Nobel Prize Lecture by David Card, Joshua Angrist and Guido Imbens.
+-   Nobel Prize Lecture by Daron Acemoglu, Simon Johnson and James Robinson.
