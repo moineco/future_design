@@ -69,23 +69,23 @@ incomes per-capita.
 
 Why Do Institutions Matter?
 
-Incentives: Institutions determine economic rewards and risks.
+- Incentives: Institutions determine economic rewards and risks.
 
-Political Power: Those in power influence institutions to benefit themselves.
+- Political Power: Those in power influence institutions to benefit themselves.
 
-Long-term Development: Good institutions promote investment, innovation, and efficiency.
+- Long-term Development: Good institutions promote investment, innovation, and efficiency.
 
 #### The Korean Experiment
 
-Natural experiment: Korea was divided into North and South after WWII.
+- Natural experiment: Korea was divided into North and South after WWII.
 
-Same culture and geography, but different institutions:
+- Same culture and geography, but different institutions:
 
-North Korea: Centrally planned economy → stagnation.
+- North Korea: Centrally planned economy → stagnation.
 
-South Korea: Market-oriented institutions → rapid growth.
+- South Korea: Market-oriented institutions → rapid growth.
 
-Conclusion: Institutional differences led to economic divergence.
+- Conclusion: Institutional differences led to economic divergence.
 
 #### The Colonial Experiment
 
@@ -98,6 +98,16 @@ Extractive Institutions: Latin America, Africa (forced labor, elite rule).
 Inclusive Institutions: North America, Australia (broad property rights).
 
 Long-term impact: Regions with inclusive institutions became wealthier.
+
+#### Policy Implications
+
+Economic development requires institutional reform.
+
+Democracies tend to have stronger institutions.
+
+Constraints on government power promote stable growth.
+
+Reducing corruption and ensuring property rights are key.
 
 **Assignment:**
 
