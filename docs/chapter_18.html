@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,8 +37,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d166b450ba5a8e9f7a0ab969bf6592c1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-626149efe8f5d16e1d391ba177679bf0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -218,8 +247,20 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#the-question" id="toc-the-question" class="nav-link active" data-scroll-target="#the-question"><span class="header-section-number">15.1</span> The question</a></li>
+  <li><a href="#the-argument" id="toc-the-argument" class="nav-link" data-scroll-target="#the-argument"><span class="header-section-number">15.2</span> The argument</a>
+  <ul class="collapse">
+  <li><a href="#economic-institutions-matter-for-economic-growth" id="toc-economic-institutions-matter-for-economic-growth" class="nav-link" data-scroll-target="#economic-institutions-matter-for-economic-growth"><span class="header-section-number">15.2.1</span> Economic institutions matter for economic growth</a></li>
+  <li><a href="#three-fundamental-causes-of-income-differences" id="toc-three-fundamental-causes-of-income-differences" class="nav-link" data-scroll-target="#three-fundamental-causes-of-income-differences"><span class="header-section-number">15.2.2</span> Three fundamental causes of income differences</a></li>
+  <li><a href="#institutions-matter" id="toc-institutions-matter" class="nav-link" data-scroll-target="#institutions-matter"><span class="header-section-number">15.2.3</span> Institutions matter</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -250,15 +291,78 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>The Prize in Economic Sciences 2024</figcaption>
 </figure>
 </div>
-<p>TBA</p>
+<section id="the-question" class="level2" data-number="15.1">
+<h2 data-number="15.1" class="anchored" data-anchor-id="the-question"><span class="header-section-number">15.1</span> The question</h2>
+<p>The most trite yet crucial question in the field of economic growth and development is: Why are some countries much poorer than others?</p>
+</section>
+<section id="the-argument" class="level2" data-number="15.2">
+<h2 data-number="15.2" class="anchored" data-anchor-id="the-argument"><span class="header-section-number">15.2</span> The argument</h2>
+<section id="economic-institutions-matter-for-economic-growth" class="level3" data-number="15.2.1">
+<h3 data-number="15.2.1" class="anchored" data-anchor-id="economic-institutions-matter-for-economic-growth"><span class="header-section-number">15.2.1</span> Economic institutions matter for economic growth</h3>
+<ul>
+<li><p>Economic institutions shape the incentives of key economic actors in society, in particular, they influence investments in physical and human capital and technology, and the organization of production.</p></li>
+<li><p>Although cultural and geographical factors may also matter for economic performance, differences in economic institutions are the major source of cross-country differences in economic growth and prosperity.</p></li>
+<li><p>Economic institutions not only determine the aggregate economic growth potential of the economy, but also an array of economic outcomes, including the distribution of resources in the future (i.e., the distribution of wealth, of physical capital or human capital).</p></li>
+<li><p>In other words, they influence not only the size of the aggregate pie, but how this pie is divided among different groups and individuals in society. We summarize these ideas schematically as (where the subscript t refers to current period and t+1 to the future):</p></li>
+</ul>
+<p><span class="math display">\[ Economic \ Institutions =&gt; \left\{ \begin{array}{ll}
+Economic \ performance_t &amp; \\
+Distribution \ of \ resources_{t+1} &amp;
+\end{array} \right. \]</span></p>
+</section>
+<section id="three-fundamental-causes-of-income-differences" class="level3" data-number="15.2.2">
+<h3 data-number="15.2.2" class="anchored" data-anchor-id="three-fundamental-causes-of-income-differences"><span class="header-section-number">15.2.2</span> Three fundamental causes of income differences</h3>
+<section id="economic-institutions" class="level4" data-number="15.2.2.1">
+<h4 data-number="15.2.2.1" class="anchored" data-anchor-id="economic-institutions"><span class="header-section-number">15.2.2.1</span> Economic institutions</h4>
+<p>At its core, the hypothesis that differences in economic institutions are the fundamental cause of different patterns of economic growth is based on the notion that it is the way that humans themselves decide to organize their societies that determines whether or not they prosper. Some ways of organizing societies encourage people to innovate, to take risks, to save for the future, to find better ways of doing things, to learn and educate themselves, solve problems of collective action and provide public goods. Others do not.</p>
+</section>
+<section id="geography" class="level4" data-number="15.2.2.2">
+<h4 data-number="15.2.2.2" class="anchored" data-anchor-id="geography"><span class="header-section-number">15.2.2.2</span> Geography</h4>
+<p>While institutional theories emphasize the importance of man-made factors shaping in- centives, an alternative is to focus on the role of “nature”, that is, on the physical and geographical environment. In the context of understanding cross-country differences in economic performance, this approach emphasizes differences in geography, climate and ecology that determine both the preferences and the opportunity set of individual eco- nomic agents in different societies. We refer to this broad approach as the “geography hypothesis”. There are at least three main versions of the geography hypothesis, each emphasizing a different mechanism for how geography affects prosperity.</p>
+<p>First, climate may be an important determinant of work effort, incentives, or even productivity.</p>
+<p>Second, geography may determine the technology available to a society, especially in agriculture.</p>
+<p>The third variant of the geography hypothesis, especially popular over the past decade, links poverty in many areas of the world to their “disease burden”, emphasizing that: “The burden of infectious disease is similarly higher in the tropics than in the temperate zones”</p>
+</section>
+<section id="culture" class="level4" data-number="15.2.2.3">
+<h4 data-number="15.2.2.3" class="anchored" data-anchor-id="culture"><span class="header-section-number">15.2.2.3</span> Culture</h4>
+<p>The final fundamental explanation for economic growth emphasizes the idea that different societies (or perhaps different races or ethnic groups) have different cultures, because of different shared experiences or different religions. Culture is viewed as a key determinant of the values, preferences and beliefs of individuals and societies and, the argument goes, these differences play a key role in shaping economic performance.</p>
+</section>
+</section>
+<section id="institutions-matter" class="level3" data-number="15.2.3">
+<h3 data-number="15.2.3" class="anchored" data-anchor-id="institutions-matter"><span class="header-section-number">15.2.3</span> Institutions matter</h3>
+<p>We now argue that there is convincing empirical support for the hypothesis that differences in economic institutions, rather than geography or culture, cause differences in incomes per-capita.</p>
+<p>Why Do Institutions Matter?</p>
+<p>Incentives: Institutions determine economic rewards and risks.</p>
+<p>Political Power: Those in power influence institutions to benefit themselves.</p>
+<p>Long-term Development: Good institutions promote investment, innovation, and efficiency.</p>
+<section id="the-korean-experiment" class="level4" data-number="15.2.3.1">
+<h4 data-number="15.2.3.1" class="anchored" data-anchor-id="the-korean-experiment"><span class="header-section-number">15.2.3.1</span> The Korean Experiment</h4>
+<p>Natural experiment: Korea was divided into North and South after WWII.</p>
+<p>Same culture and geography, but different institutions:</p>
+<p>North Korea: Centrally planned economy → stagnation.</p>
+<p>South Korea: Market-oriented institutions → rapid growth.</p>
+<p>Conclusion: Institutional differences led to economic divergence.</p>
+</section>
+<section id="the-colonial-experiment" class="level4" data-number="15.2.3.2">
+<h4 data-number="15.2.3.2" class="anchored" data-anchor-id="the-colonial-experiment"><span class="header-section-number">15.2.3.2</span> The Colonial Experiment</h4>
+<p>Colonization changed institutions worldwide.</p>
+<p>Different institutions were established in different regions:</p>
+<p>Extractive Institutions: Latin America, Africa (forced labor, elite rule).</p>
+<p>Inclusive Institutions: North America, Australia (broad property rights).</p>
+<p>Long-term impact: Regions with inclusive institutions became wealthier.</p>
 <p><strong>Assignment:</strong></p>
 <p>Please check the KUTLMS.</p>
 <p><strong>References:</strong></p>
 <ul>
-<li>Nobel Prize Lecture by Daron Acemoglu, Simon Johnson and James Robinson.</li>
+<li><p>Nobel Prize Lecture by Daron Acemoglu, Simon Johnson and James Robinson.</p></li>
+<li><p>Acemoglu, D., Johnson, S., &amp; Robinson, J. (2005). Institutions as a Fundamental Cause of Long-Run Growth. Handbook of Economic Growth.</p></li>
+<li><p>North, D. (1990). Institutions, Institutional Change, and Economic Performance. Cambridge University Press.</p></li>
 </ul>
 
 
+</section>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -4,7 +4,100 @@ The Prize in Economic Sciences 2024 – Daron Acemoglu, Simon Johnson and James 
 
 ![The Prize in Economic Sciences 2024](figures/L17/Nobel_2024.png){fig-align="center"}
 
-TBA
+## The question
+
+The most trite yet crucial question in the field of economic growth and development is: Why are some countries much poorer than others?
+
+## The argument
+
+### Economic institutions matter for economic growth
+
+-   Economic institutions shape the incentives of key economic actors in society, in particular, they influence investments in physical and human capital and technology, and the organization of production.
+
+-   Although cultural and geographical factors may also matter for economic performance, differences in economic institutions are the major source of cross-country differences in economic growth and prosperity.
+
+-   Economic institutions not only determine the aggregate economic growth potential of the economy, but also an array of economic outcomes, including the distribution of resources in the future (i.e., the distribution of wealth, of physical capital or human capital).
+
+-   In other words, they influence not only the size of the aggregate pie, but how this pie is divided among different groups and individuals in society. We summarize these ideas schematically as (where the subscript t refers to current period and t+1 to the future):
+
+$$ Economic \ Institutions => \left\{ \begin{array}{ll}
+Economic \ performance_t & \\
+Distribution \ of \ resources_{t+1} & 
+\end{array} \right. $$
+
+### Three fundamental causes of income differences
+
+#### Economic institutions
+
+At its core, the hypothesis that differences in economic institutions are the fundamental
+cause of different patterns of economic growth is based on the notion that it is the way
+that humans themselves decide to organize their societies that determines whether or not
+they prosper. Some ways of organizing societies encourage people to innovate, to take
+risks, to save for the future, to find better ways of doing things, to learn and educate
+themselves, solve problems of collective action and provide public goods. Others do
+not.
+
+#### Geography
+
+While institutional theories emphasize the importance of man-made factors shaping in-
+centives, an alternative is to focus on the role of “nature”, that is, on the physical and
+geographical environment. In the context of understanding cross-country differences in
+economic performance, this approach emphasizes differences in geography, climate and
+ecology that determine both the preferences and the opportunity set of individual eco-
+nomic agents in different societies. We refer to this broad approach as the “geography hypothesis”. There are at least three main versions of the geography hypothesis, each
+emphasizing a different mechanism for how geography affects prosperity.
+
+First, climate may be an important determinant of work effort, incentives, or even productivity. 
+
+Second, geography may determine the technology available to a society, especially
+in agriculture.
+
+The third variant of the geography hypothesis, especially popular over the past
+decade, links poverty in many areas of the world to their “disease burden”, emphasizing that: “The burden of infectious disease is similarly higher in the tropics than in the
+temperate zones”
+
+#### Culture
+
+The final fundamental explanation for economic growth emphasizes the idea that different societies (or perhaps different races or ethnic groups) have different cultures,
+because of different shared experiences or different religions. Culture is viewed as a key determinant of the values, preferences and beliefs of individuals and societies and,
+the argument goes, these differences play a key role in shaping economic performance.
+
+### Institutions matter
+
+We now argue that there is convincing empirical support for the hypothesis that differences in economic institutions, rather than geography or culture, cause differences in
+incomes per-capita.
+
+Why Do Institutions Matter?
+
+Incentives: Institutions determine economic rewards and risks.
+
+Political Power: Those in power influence institutions to benefit themselves.
+
+Long-term Development: Good institutions promote investment, innovation, and efficiency.
+
+#### The Korean Experiment
+
+Natural experiment: Korea was divided into North and South after WWII.
+
+Same culture and geography, but different institutions:
+
+North Korea: Centrally planned economy → stagnation.
+
+South Korea: Market-oriented institutions → rapid growth.
+
+Conclusion: Institutional differences led to economic divergence.
+
+#### The Colonial Experiment
+
+Colonization changed institutions worldwide.
+
+Different institutions were established in different regions:
+
+Extractive Institutions: Latin America, Africa (forced labor, elite rule).
+
+Inclusive Institutions: North America, Australia (broad property rights).
+
+Long-term impact: Regions with inclusive institutions became wealthier.
 
 **Assignment:**
 
@@ -13,3 +106,7 @@ Please check the KUTLMS.
 **References:**
 
 -   Nobel Prize Lecture by Daron Acemoglu, Simon Johnson and James Robinson.
+
+- Acemoglu, D., Johnson, S., & Robinson, J. (2005). Institutions as a Fundamental Cause of Long-Run Growth. Handbook of Economic Growth.
+
+- North, D. (1990). Institutions, Institutional Change, and Economic Performance. Cambridge University Press.
