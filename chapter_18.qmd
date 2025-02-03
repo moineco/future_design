@@ -47,15 +47,13 @@ The final fundamental explanation for economic growth emphasizes the idea that d
 
 ### Institutions matter
 
-We now argue that there is convincing empirical support for the hypothesis that differences in economic institutions, rather than geography or culture, cause differences in incomes per-capita.
+We now argue that there is convincing empirical support for the hypothesis that differences in economic institutions, rather than geography or culture, cause differences in incomes per-capita. Why do institutions matter?
 
-Why Do Institutions Matter?
+-   **Incentives**: Institutions determine economic rewards and risks.
 
--   Incentives: Institutions determine economic rewards and risks.
+-   **Political Power**: Those in power influence institutions to benefit themselves.
 
--   Political Power: Those in power influence institutions to benefit themselves.
-
--   Long-term Development: Good institutions promote investment, innovation, and efficiency.
+-   **Long-term Development**: Good institutions promote investment, innovation, and efficiency.
 
 Acemoglu et al 2019 suggests that, on average, democratizations increase GDP per capita by about 20 percent in the long run (Figure below). However, that does not mean that one can just introduce elections and hope to get the observed average boost-effect. State capacity – shaped by the incentives, beliefs and professional norms shared among state personnel - is crucial to explain differences in institutional performance and policy effectiveness.
 
@@ -65,7 +63,9 @@ Acemoglu et al 2019 suggests that, on average, democratizations increase GDP per
 
 -   Natural experiment: Korea was divided into North and South after WWII.
 
--   Same culture and geography, but different institutions:
+![](figures/L18/Korea.jpg){fig-align="center" width="342"}
+
+-   Same culture and geography, but different institutions
 
 -   North Korea: Centrally planned economy → stagnation.
 
@@ -75,25 +75,25 @@ Acemoglu et al 2019 suggests that, on average, democratizations increase GDP per
 
 #### The Colonial Experiment
 
-Colonization changed institutions worldwide.
+-   Colonization changed institutions worldwide.
 
-Different institutions were established in different regions:
+-   Different institutions were established in different regions:
 
-Extractive Institutions: Latin America, Africa (forced labor, elite rule).
+-   Extractive Institutions: Latin America, Africa (forced labor, elite rule).
 
-Inclusive Institutions: North America, Australia (broad property rights).
+-   Inclusive Institutions: North America, Australia (broad property rights).
 
-Long-term impact: Regions with inclusive institutions became wealthier.
+-   Long-term impact: Regions with inclusive institutions became wealthier.
 
 #### Policy Implications
 
-Economic development requires institutional reform.
+-   Economic development requires institutional reform.
 
-Democracies tend to have stronger institutions.
+-   Democracies tend to have stronger institutions.
 
-Constraints on government power promote stable growth.
+-   Constraints on government power promote stable growth.
 
-Reducing corruption and ensuring property rights are key.
+-   Reducing corruption and ensuring property rights are key.
 
 **Assignment:**
 
@@ -103,8 +103,8 @@ Please check the KUTLMS.
 
 -   Nobel Prize Lecture by Daron Acemoglu, Simon Johnson and James Robinson.
 
--   Acemoglu, D., Johnson, S., & Robinson, J. (2005). Institutions as a Fundamental Cause of Long-Run Growth. Handbook of Economic Growth.
+-   Acemoglu, D., Johnson, S., and Robinson, J. (2005). Institutions as a Fundamental Cause of Long-Run Growth. Handbook of Economic Growth.
 
 -   North, D. (1990). Institutions, Institutional Change, and Economic Performance. Cambridge University Press.
 
--   Acemoglu, D., Naidu, S., Restrepo, P., & Robinson, J. A. (2019). Democracy does cause growth. *Journal of political economy*, *127*(1), 47-100.
+-   Acemoglu, D., Naidu, S., Restrepo, P., and Robinson, J. (2019). Democracy does cause growth. *Journal of political economy*, *127*(1), 47-100.
