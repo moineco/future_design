@@ -31,6 +31,20 @@ Distribution \ of \ resources_{t+1} &
 
 At its core, the hypothesis that differences in economic institutions are the fundamental cause of different patterns of economic growth is based on the notion that it is the way that humans themselves decide to organize their societies that determines whether or not they prosper. Some ways of organizing societies encourage people to innovate, to take risks, to save for the future, to find better ways of doing things, to learn and educate themselves, solve problems of collective action and provide public goods. Others do not.
 
+-   Institutions shape the incentives and opportunities.
+
+-   log GDP per capita and World Bank’s rule of law index
+
+![](figures/L18/GDP_Lawindex.png){fig-align="center"}
+
+##### Institutions Are Endogenous
+
+- Correlation between institutions and prosperity does not imply a causal effect from
+institutions.
+- Perhaps rich countries can “afford” better institutions, or their populations
+“demand” such institutions.
+- Or omitted factors influence both institutions and prosperity.
+
 #### Geography
 
 While institutional theories emphasize the importance of man-made factors shaping incentives, an alternative is to focus on the role of “nature”, that is, on the physical and geographical environment. In the context of understanding cross-country differences in economic performance, this approach emphasizes differences in geography, climate and ecology that determine both the preferences and the opportunity set of individual economic agents in different societies. We refer to this broad approach as the “geography hypothesis”. There are at least three main versions of the geography hypothesis, each emphasizing a different mechanism for how geography affects prosperity.
