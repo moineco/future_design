@@ -48,9 +48,6 @@ At its core, the hypothesis that differences in economic institutions are the fu
 -   We need a theory
 
 ##### How institutions matter
-
-![](figures/L18/Theory.png){fig-align="center"}
-
 -   Political institutions and the distribution of resources (capital, land, human capital) as state variables.
 -   Economic institutions shape incentives for investment, innovation and economic participation.
 -   Institutional persistence and institutional change caused by the interplay of these dynamics
