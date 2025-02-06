@@ -31,7 +31,14 @@ At its core, the hypothesis that differences in economic institutions are the fu
 -   Institutions shape the incentives and opportunities.
 -   log GDP per capita and World Bank’s rule of law index
 
-![](figures/L18/GDP_Lawindex.png){fig-align="center"}
+![Figure: Correlation between institutions and GDP](figures/L18/GDP_Lawindex.png){fig-align="center"}
+
+-   The "Rule of Law Index" evaluates 142 countries and jurisdictions around the world. For the seventh year in a row, the rule of law has declined in most countries.
+
+![Figure: Rules and Law Index in 2024](figures/L18/Rules_of_law_ind.png){fig-align="center"}
+
+You can find the recent Rules and Law Index from the following link:
+<https://worldjusticeproject.org/rule-of-law-index/global>
 
 ##### Institutions are endogenous
 
@@ -48,6 +55,7 @@ At its core, the hypothesis that differences in economic institutions are the fu
 -   We need a theory
 
 ##### How institutions matter
+
 -   Political institutions and the distribution of resources (capital, land, human capital) as state variables.
 -   Economic institutions shape incentives for investment, innovation and economic participation.
 -   Institutional persistence and institutional change caused by the interplay of these dynamics
@@ -74,11 +82,13 @@ We now argue that there is convincing empirical support for the hypothesis that 
 
 Acemoglu et al 2019 suggests that, on average, democratizations increase GDP per capita by about 20 percent in the long run (Figure below). However, that does not mean that one can just introduce elections and hope to get the observed average boost-effect. State capacity – shaped by the incentives, beliefs and professional norms shared among state personnel - is crucial to explain differences in institutional performance and policy effectiveness.
 
-![](figures/L18/Democracy.png){fig-align="center" width="605"}
+![Figure: GDP Per Capita before and after Democratization](figures/L18/Democracy.png){fig-align="center" width="605"}
 
 #### The Korean Experiment
 
 -   Natural experiment: Korea was divided into North and South after WWII.
+
+The division of Korea into North and South Korea after World War II is often considered a "natural experiment" by social scientists, as it provides a unique opportunity to study how two populations with largely similar cultural backgrounds can develop vastly different economic and political systems due to the contrasting political ideologies imposed on them by the occupying powers, the US and the Soviet Union, following the Cold War division along the 38th parallel. The Cold War division of Korea in 1948 can be viewed as an ongoing natural experiment in institutional change (Acemoglu et al., 2005).
 
 ![](figures/L18/Korea.jpg){fig-align="center" width="342"}
 
