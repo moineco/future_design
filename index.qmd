@@ -78,7 +78,7 @@ Your grade evaluation will depend on following three factors:
 ### Quiz submission
 
 -   There is no word limit for quiz submission. Most of the quizzes are short and instantaneous.
--   Quizes should be available throgh the QR code during the lecture time.
+-   Quizzes should be available through the QR code during the lecture time.
 
 ### Instructor
 
@@ -86,6 +86,6 @@ Moinul Islam, Associate Professor, Research Institute for Future Design & School
 
 #### future.moinul\@gmail.com
 
-#### KUTLMS Moodle key: future
+#### KUTLMS Moodle key: <!-- future-->
 
 Office hours: By appointment, please email
