@@ -37,8 +37,7 @@ At its core, the hypothesis that differences in economic institutions are the fu
 
 ![Figure: Rules and Law Index in 2024](figures/L18/Rules_of_law_ind.png){fig-align="center"}
 
-You can find the recent Rules and Law Index from the following link:
-<https://worldjusticeproject.org/rule-of-law-index/global>
+You can find the recent Rules and Law Index from the following link: <https://worldjusticeproject.org/rule-of-law-index/global>
 
 ##### Institutions are endogenous
 
