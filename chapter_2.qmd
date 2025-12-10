@@ -74,78 +74,71 @@ Source: <https://www.nationalgeographic.com/history/article/who-were-the-neander
 -   Diet: meat, plants and fungi, shellfish when available
 -   Species named in: 1864 - Name meaning: 'human from the Neander Valley'
 
-### Quiz 2: Please check the KUTLMS.
+<!-- ## Calculate your Meaning in Life score -->
 
-## Calculate your Meaning in Life score
+<!-- ### INSTRUCTIONS FOR SCORING -->
 
-### INSTRUCTIONS FOR SCORING
+<!-- #### For the Presence sub-scale: -->
 
-#### For the Presence sub-scale:
+<!-- Sum up your scores for items 1, 4, 5, 6 and 9. -->
 
-Sum up your scores for items 1, 4, 5, 6 and 9.
+<!-- Note: -->
 
-Note:
+<!-- -   Item 1, 4, 5 and 6 are normally scored: -->
 
--   Item 1, 4, 5 and 6 are normally scored:
+<!-- A = 1, B = 2, C = 3, D = 4, E = 5, F = 6, G = 7 -->
 
-A = 1, B = 2, C = 3, D = 4, E = 5, F = 6, G = 7
+<!-- -   Item 9 is reverse scored: -->
 
--   Item 9 is reverse scored:
+<!-- A = 7, B = 6, C = 5, D = 4, E = 3, F = 2, G = 1 -->
 
-A = 7, B = 6, C = 5, D = 4, E = 3, F = 2, G = 1
+<!-- **Your PRESENCE sub-scale score:........** -->
 
-**Your PRESENCE sub-scale score:........**
+<!-- #### For the Search sub-scale: -->
 
-#### For the Search sub-scale:
+<!-- Sum up your scores for items 2, 3, 7, 8 and 10. -->
 
-Sum up your scores for items 2, 3, 7, 8 and 10.
+<!-- Note: -->
 
-Note:
+<!-- -   Item 2, 3, 7, 8 and 10 are normally scored: -->
 
--   Item 2, 3, 7, 8 and 10 are normally scored:
+<!-- A = 1, B = 2, C = 3, D = 4, E = 5, F = 6, G = 7 -->
 
-A = 1, B = 2, C = 3, D = 4, E = 5, F = 6, G = 7
+<!-- **Your SEARCH sub-scale score:........** -->
 
-**Your SEARCH sub-scale score:........**
+<!-- ### INTERPRETATION OF SCORES -->
 
-### INTERPRETATION OF SCORES
+<!-- ![](figures/L2/L2_5.png){fig-align="center" width="450" height="300"} -->
 
-![](figures/L2/L2_5.png){fig-align="center" width="450" height="300"}
+<!-- #### If you scored **above 24** on **PRESENCE** and **above 24** on **SEARCH**: -->
 
-#### If you scored **above 24** on **PRESENCE** and **above 24** on **SEARCH**:
+<!-- o You feel your life has a valued meaning and purpose, yet you are still openly exploring that meaning or purpose. -->
 
-o You feel your life has a valued meaning and purpose, yet you are still openly exploring that meaning or purpose.
+<!-- o You are likely satisfied with your life, generally optimistic, experience feelings of love frequently, and rarely feel depressed or anxious. -->
 
-o You are likely satisfied with your life, generally optimistic, experience feelings of love frequently, and rarely feel depressed or anxious.
+<!-- #### If you scored **above 24** on **PRESENCE** and **below 24** on **SEARCH**: -->
 
-#### If you scored **above 24** on **PRESENCE** and **below 24** on **SEARCH**:
+<!-- o You feel your life has a valued meaning and purpose, and are not actively exploring that meaning or seeking meaning in your life. -->
 
-o You feel your life has a valued meaning and purpose, and are not actively exploring that meaning or seeking meaning in your life.
+<!-- o You are probably highly satisfied with your life, optimistic, and have a healthy self-esteem. -->
 
-o You are probably highly satisfied with your life, optimistic, and have a healthy self-esteem.
+<!-- o You frequently experience feelings of love and joy, and rarely feel afraid, angry, ashamed, or sad. -->
 
-o You frequently experience feelings of love and joy, and rarely feel afraid, angry, ashamed, or sad.
+<!-- #### If you scored **below 24** on **PRESENCE** and **above 24** on **SEARCH**: -->
 
-#### If you scored **below 24** on **PRESENCE** and **above 24** on **SEARCH**:
+<!-- o You probably do not feel your life has a valued meaning and purpose, and you are actively searching for something or someone that will give your life meaning or purpose. -->
 
-o You probably do not feel your life has a valued meaning and purpose, and you are actively searching for something or someone that will give your life meaning or purpose.
+<!-- o You may feel lost in life, and this idea may cause you distress. -->
 
-o You may feel lost in life, and this idea may cause you distress.
+<!-- o You are probably not always satisfied with your life. -->
 
-o You are probably not always satisfied with your life.
+<!-- o You may not experience emotions like love and joy that often. -->
 
-o You may not experience emotions like love and joy that often.
+<!-- #### If you scored **below 24** on **PRESENCE** and **below 24** on **SEARCH**: -->
 
-#### If you scored **below 24** on **PRESENCE** and **below 24** on **SEARCH**:
+<!-- o You probably do not feel your life has a valued meaning and purpose, and are not actively exploring that meaning or seeking meaning in your life. -->
 
-o You probably do not feel your life has a valued meaning and purpose, and are not actively exploring that meaning or seeking meaning in your life.
+<!-- o You may not always be satisfied with your life, or yourself, and you might not be particularly optimistic about the future. -->
 
-o You may not always be satisfied with your life, or yourself, and you might not be particularly optimistic about the future.
+<!-- o You may not experience emotions like love and joy that often. -->
 
-o You may not experience emotions like love and joy that often.
-
-**Assignment:**
-
-Please check the KUTLMS.
-
-Copyright\@2025 Research Institute for Future Design

@@ -69,10 +69,6 @@ The key difference between an experiment in economics and an experiment in physi
 
 -   The work conducted by Card at the beginning of the 1990s also led to new research, which attempted to explain the absence of negative effects on employment. One possible explanation is that companies can transfer increased costs to consumers in the form of higher prices, without significant reductions in demand. Another explanation is that companies that dominate their local labour market can keep wages low; an increased minimum wage thus means that more people want to work, leading to increased employment. When companies have such power over the market, we cannot determine in advance how employment will be affected by changes to the minimum wage. The many studies inspired by Card and Krueger’s work have considerably improved our understanding of the labour market.
 
-**Assignment:**
-
-Please check the KUTLMS.
-
 **References:**
 
 -   Nobel Prize Lecture by David Card, Joshua Angrist and Guido Imbens.

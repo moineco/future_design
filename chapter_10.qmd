@@ -46,15 +46,11 @@ Most international economists view the first claim as simplistic and disagree wi
 
 ## The Problem of "Pollution Havens"
 
-When ships get too old to continue operating, they are disassembled to recover their scrap metal and other materials. One way to look at "shipbreaking" is that it is a form of recycling: Instead of leaving a ship to rust, a shipbreaking firm extracts and reuses its components. Ultimately, this salvaging means that less iron ore needs to be mined, less oil extracted, and so on. One might expect shipbreaking to be good for the environment. The task itself, however, can be environmentally hazardous: Everything from the residual oil in a ship's tanks to the plastic in its chairs and interior fittings, if not handled carefully, can be toxic to the local environment.
+When ships get too old to continue operating, they are disassembled to recover their scrap metal and other materials. One way to look at "ship-breaking" is that it is a form of recycling: Instead of leaving a ship to rust, a ship-breaking firm extracts and reuses its components. Ultimately, this salvaging means that less iron ore needs to be mined, less oil extracted, and so on. One might expect ship-breaking to be good for the environment. The task itself, however, can be environmentally hazardous: Everything from the residual oil in a ship's tanks to the plastic in its chairs and interior fittings, if not handled carefully, can be toxic to the local environment.
 
 Pollution is the classic example of a negative externality---a cost that individuals impose on others but don't pay for. That's why pollution is a valid reason for government intervention. However, different forms of pollution have very different geographical reach---and only those that extend across national boundaries obviously justify international concern.
 
 Thus, to the extent that Indian ship breaking pollutes the local environment. this is a problem for India; it's less clear that it is a problem for other countries. Similarly, air pollution in Mexico City is a problem for Mexico; it's not clear why it's a valid U.S. interest. On the other hand, emissions of carbon dioxide affect the future climate for all countries: They're an international externality and deserve to be the subject of international negotiation.
-
-**Assignment:**
-
-Please check the KUTLMS.
 
 **References:**
 
