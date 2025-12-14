@@ -50,6 +50,38 @@ Scope of activities and distribution that future generations can achieve.
 
 Inequality in industrial society: Various disparities and the importance of capital During just 300 years of industrial society Non-linear and explosive growth
 
+### 15th-18th century
+
+-   Transitional period from agricultural society to industrial society
+
+-   Differentiation based on geographical conditions (Products, resources, and labor from A to B)
+
+![](figures/L4/L4_1.png){width="600" height="400"}
+
+### 19th-20th century
+
+-   Industrial society during the growth period
+
+-   Differentiation by production process
+
+-   Importance of organizational tangible capital (factory/machine/transportation network)
+
+Industrial society during the growth period
+
+![](figures/L4/L4_2.png){width="600" height="400"}
+
+### 21st century
+
+-   Future post-industrial society (information age)
+
+-   Differentiation based on meaning and significance
+
+-   Processing information, creating your own story
+
+Future post-industrial society (information age)
+
+![](figures/L4/L4_3.png){width="600" height="400"}
+
 ### Post-Industrial Society
 
 How long this society will continue?
@@ -141,4 +173,3 @@ Source: <https://www.nationalgeographic.com/history/article/who-were-the-neander
 <!-- o You may not always be satisfied with your life, or yourself, and you might not be particularly optimistic about the future. -->
 
 <!-- o You may not experience emotions like love and joy that often. -->
-
