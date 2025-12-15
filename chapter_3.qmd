@@ -4,7 +4,7 @@
 
 Capitalism is an economic system that allows for and encourages the private ownership of businesses that operate to generate profit. Also known as the market system, capitalism is characterized by private land ownership rights, competitive markets, the stable rule of law, freely operating capital markets, low corruption, and a price discovery process.
 
-## Do you think capitalism considers the needs and interests of future generations?
+## Open question: Do you think capitalism considers the needs and interests of future generations?
 
 ![](figures/L4/L4_4.png){width="700" height="400"}
 
@@ -110,8 +110,12 @@ Global supply chains and corporate imperialism also mirror his insights on expan
 
 Marx’s critique of capitalism offers a powerful lens to examine the system’s foundational problems—exploitation, inequality, alienation, and environmental harm. While the world has changed since his time, many of the contradictions he identified remain unresolved. His analysis challenges us to look beyond surface-level reforms and question the deeper logic of capitalism itself. Whether one agrees with his solutions or not, understanding his critique is essential for anyone serious about economic justice, sustainability, and systemic change. As crises intensify globally, Marx’s ideas continue to provoke debate and inspire movements seeking a more equitable and humane future.
 
-## Politics: Democracy
+## Punchline: 
 
--   Vote, Parliament, and Trial
+> Our currenct economic systems, including capitalism, do not have the interests of future generations. However, capitalism is considerd as the most acceptable economic system around the world.
+
+## Next class:
+
+> Politics: Democracy - Vote, Parliament, and Trial
 
 ![](figures/L4/L4_6.png){width="400" height="300"}
