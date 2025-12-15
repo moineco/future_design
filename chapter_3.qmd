@@ -1,8 +1,10 @@
 # Future Design: From the Perspective of Economics
 
-## Future generation and their interests
+## What is Capitalism?
 
--   Who will take into consideration of "future generations" and their interests?
+Capitalism is an economic system that allows for and encourages the private ownership of businesses that operate to generate profit. Also known as the market system, capitalism is characterized by private land ownership rights, competitive markets, the stable rule of law, freely operating capital markets, low corruption, and a price discovery process.
+
+## Do you think capitalism considers the needs and interests of future generations?
 
 ![](figures/L4/L4_4.png){width="700" height="400"}
 
@@ -15,10 +17,6 @@
 -   Financial market, Commodity market, and Labor market
 
 ![](figures/L4/L4_5.png){width="400" height="300"}
-
-## What is Capitalism?
-
-Capitalism is an economic system that allows for and encourages the private ownership of businesses that operate to generate profit. Also known as the market system, capitalism is characterized by private land ownership rights, competitive markets, the stable rule of law, freely operating capital markets, low corruption, and a price discovery process.
 
 ## Benefits of Capitalism
 
