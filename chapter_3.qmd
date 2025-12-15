@@ -4,13 +4,27 @@
 
 Capitalism is an economic system that allows for and encourages the private ownership of businesses that operate to generate profit. Also known as the market system, capitalism is characterized by private land ownership rights, competitive markets, the stable rule of law, freely operating capital markets, low corruption, and a price discovery process.
 
+### How many countries are currently experiencing capitalism?
+
+-   There is no single official number, because capitalism is not a binary label and most countries today operate mixed economic systems rather than “pure” capitalism.
+
+-   Pure capitalism: essentially none
+
+-   Capitalist or mixed-capitalist economies: \~170–180 countries
+
+-   Non-capitalist command economies: very few (≈2–5)
+
+![Figure: Capitalist countries in 2025](figures/L3/capitalism_map.png){fig-align="center"}
+
+Source: <https://worldpopulationreview.com/country-rankings/capitalist-countries>
+
 ## Open question: Do you think capitalism considers the needs and interests of future generations?
 
-![](figures/L4/L4_4.png){width="700" height="400"}
-
-## What is the existence of future generations in the current political and economic system?
+#### What is the existence of future generations in the current political and economic system?
 
 -   Is there any existing system that listen to future generations and make their voices heard?
+
+![](figures/L4/L4_4.png){width="424" height="276"}
 
 ### Economy: Capitalism
 
@@ -21,10 +35,6 @@ Capitalism is an economic system that allows for and encourages the private owne
 ## Benefits of Capitalism
 
 The main benefit of capital is that it provides a strong incentive and motivation to produce, grow, innovate, improve, and move forward in a positive way. Those who believe in a free market system argue that free markets and competition result in superior businesses and, thus, better products and services.
-
-![](figures/L3/capitalism_map.png){fig-align="center"}
-
-Source: <https://worldpopulationreview.com/country-rankings/capitalist-countries>
 
 ### Does Absolute Capitalism Exist?
 
@@ -102,7 +112,7 @@ Under capitalism, workers become alienated from their labor, the products they c
 
 ## Contemporary Relevance of Marx’s Critique
 
-Marx’s critique of capitalism remains highly relevant in today’s global economy. Income inequality continues to rise, with billionaires controlling more wealth than entire nations. Workers face job insecurity, wage stagnation, and automation threats, echoing Marx’s warnings about exploitation and alienation. Climate change, driven by profit-centered industries, reflects the environmental degradation Marx foresaw. Even financial crises, like the 2008 crash, follow the pattern of overproduction and underconsumption he described.
+Marx’s critique of capitalism remains highly relevant in today’s global economy. Income inequality continues to rise, with billionaires controlling more wealth than entire nations. Workers face job insecurity, wage stagnation, and automation threats, echoing Marx’s warnings about exploitation and alienation. Climate change, driven by profit-centered industries, reflects the environmental degradation Marx foresaw. Even financial crises, like the 2008 crash, follow the pattern of overproduction and under-consumption he described.
 
 Global supply chains and corporate imperialism also mirror his insights on expansion and exploitation. Multinational companies extract resources from the Global South while maintaining profits in the Global North. These dynamics reveal that Marx’s analysis wasn’t just historical—it provides a framework to understand capitalism’s enduring problems and systemic contradictions in the modern world.
 
@@ -110,7 +120,7 @@ Global supply chains and corporate imperialism also mirror his insights on expan
 
 Marx’s critique of capitalism offers a powerful lens to examine the system’s foundational problems—exploitation, inequality, alienation, and environmental harm. While the world has changed since his time, many of the contradictions he identified remain unresolved. His analysis challenges us to look beyond surface-level reforms and question the deeper logic of capitalism itself. Whether one agrees with his solutions or not, understanding his critique is essential for anyone serious about economic justice, sustainability, and systemic change. As crises intensify globally, Marx’s ideas continue to provoke debate and inspire movements seeking a more equitable and humane future.
 
-## Punchline: 
+## Punchline:
 
 > Our currenct economic systems, including capitalism, do not have the interests of future generations. However, capitalism is considerd as the most acceptable economic system around the world.
 
