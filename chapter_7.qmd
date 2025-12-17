@@ -74,6 +74,10 @@ Source: <https://www.bbc.com/news/world-asia-china-58277473>
 
 ![China’s fertility rate](figures/L7/L7_10.png){fig-align="center" width="659"}
 
+Question: How a three-child policy might mean more children when the two-child version didn't and why birth restrictions have remained here at all given the demographic trend?
+
+- Generations of Chinese people have lived without siblings and are used to small families - affluence has meant less need for multiple children to become family-supporting workers, and young professionals say they'd rather give one child more advantages than spread their income among several kids.
+
 ## World population growth rate
 
 As of my knowledge cutoff in September 2021, the world population growth rate was estimated to be around 1.05% per year. However, this growth rate is not evenly distributed across different regions of the world, and some countries and regions are experiencing higher population growth rates than others.
