@@ -1,5 +1,7 @@
 # Population Growth and Well-Being
 
+## Open question: Do you think capitalism considers the needs and interests of future generations?
+
 ## World population is increasing steadily
 
 \[世界人口は着実に増加している\]
@@ -45,6 +47,12 @@ The 1970s were a decade shaped by fears about overpopulation. As the world’s m
 By this point, China’s fertility rate — the number of children per woman — had already fallen quickly in the early 1970s, as you can see in the chart.
 
 While China’s one-child policy restricted many families, there were exceptions to the rule. Enforcement differed widely by province and between urban and rural areas. Many couples were allowed to have another baby if their first was a girl. Other couples paid a fine for having more than one. As a result, fertility rates never dropped close to one.
+
+The one-child policy also led to a severe gender imbalance in the country. The traditional preference for male children led to large numbers of girls being abandoned or placed in orphanages, or cases of sex-selective abortions or even female infanticide.
+
+"This poses problems for the marriage market, especially for men with less socioeconomic resources".
+
+![](figures/L7/L7_12.png.webp){fig-align="center" width="500"}
 
 ### Two-Child Policy (2016)
 
