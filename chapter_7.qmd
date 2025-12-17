@@ -2,15 +2,19 @@
 
 ## World population is increasing steadily
 
+\[世界人口は着実に増加している\]
+
 The world population has been steadily growing over the past few decades. According to the United Nations, the world population reached 7.9 billion in 2021 and is expected to reach 9.7 billion by 2050.
 
 The rate of population growth has been declining since the 1960s, thanks to improvements in healthcare and access to education, as well as the availability of birth control. However, population growth remains a concern in many parts of the world, particularly in developing countries where access to family planning services is limited.
 
 Population growth has a significant impact on a wide range of issues, including food security, access to healthcare, and environmental sustainability. Managing population growth and ensuring sustainable development is a key challenge for policymakers around the world.
 
-![Figure 7.1](figures/L7/L7_1.png){width="803"}
+![The size of the world population over last 12,000 years](figures/L7/L7_1.png){width="803"}
 
 ## World population density
+
+\[世界の人口密度\]
 
 The population density of the world varies greatly from region to region, with some areas being densely populated and others being sparsely populated.
 
@@ -20,9 +24,13 @@ Some of the most densely populated countries in the world include Bangladesh, Si
 
 Overall, population density is an important factor in a range of issues, from urban planning and transportation to resource allocation and environmental sustainability.
 
-![Figure 7.2](figures/L7/L7_2.png){fig-align="center" width="710"}
+![World population density in 2025](figures/L7/L7_2.png){fig-align="center" width="710"}
 
-![Figure 7.2.1](figures/L7/L7_9.png){fig-align="center" width="710"} Data source: United Nations, World Population Prospects (2022)
+Reference: <https://worldpopulationreview.com/country-rankings/countries-by-density>
+
+![World population from 1950 to 2100](figures/L7/L7_9.png){fig-align="center" width="710"}
+
+Data source: United Nations, World Population Prospects (2022)
 
 ## World population growth rate
 
@@ -30,13 +38,13 @@ As of my knowledge cutoff in September 2021, the world population growth rate wa
 
 It's worth noting that population growth rates can change over time due to various factors, such as changes in birth rates, mortality rates, and migration patterns. Additionally, population growth rates can have significant impacts on issues such as resource consumption, environmental sustainability, and social and economic development.
 
-![Figure 7.3](figures/L7/L7_3.png){fig-align="center" width="600" height="400"}
+![World population growth rate from 1950 to 2100](figures/L7/L7_3.png){fig-align="center" width="600" height="400"}
 
 ## Food shortage and green revolution
 
 In the developing countries of Africa, the Middle East, and parts of Asia, where many poor people struggle to obtain adequate food and nutrition. To improve this situation, the green revolution took place.
 
-![Figure 7.4](figures/L7/L7_4.png){fig-align="center" width="709"}
+![World population by region](figures/L7/L7_4.png){fig-align="center" width="544"}
 
 The Green Revolution was a period of significant agricultural innovation that took place from the 1940s to the 1960s. The revolution involved the development of high-yielding crop varieties, modern farming techniques, and improved infrastructure to support the growth and distribution of crops. The goal of the Green Revolution was to increase agricultural productivity and reduce poverty and hunger.
 
@@ -44,7 +52,7 @@ One of the primary reasons for the Green Revolution was the need to address food
 
 The Green Revolution had a significant impact on food production, particularly in developing countries. Countries such as India, Mexico, and the Philippines were able to significantly increase their food production, which helped to reduce hunger and poverty in those areas.
 
-![Figure 7.5](figures/L7/L7_5.png){fig-align="center"}
+![Drone over farm](figures/L7/L7_5.jpeg){fig-align="center" width="475"}
 
 However, the Green Revolution also had some negative impacts. The increased use of pesticides and fertilizers led to environmental degradation and health problems for farmers and consumers. Additionally, the focus on high-yielding varieties of crops led to a reduction in biodiversity, which could have long-term implications for food security.
 
