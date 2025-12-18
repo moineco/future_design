@@ -74,7 +74,7 @@ Source: <https://www.bbc.com/news/world-asia-china-58277473>
 
 Question: How a three-child policy might mean more children when the two-child version didn't and why birth restrictions have remained here at all given the demographic trend?
 
-- Generations of Chinese people have lived without siblings and are used to small families - affluence has meant less need for multiple children to become family-supporting workers, and young professionals say they'd rather give one child more advantages than spread their income among several kids.
+-   Generations of Chinese people have lived without siblings and are used to small families - affluence has meant less need for multiple children to become family-supporting workers, and young professionals say they'd rather give one child more advantages than spread their income among several kids.
 
 ## World population growth rate
 
@@ -87,3 +87,5 @@ It's worth noting that population growth rates can change over time due to vario
 ## Open question: Can the economy grow in Japan where the population continues to decline?
 
 Japan is currently experiencing rapid depopulation. What kind of economic policy is desired when a declining birthrate and an aging population is causing a chronic shortage of manpower in various industries and is having a seriously negative effect on management?
+
+Current population of Japan: <https://www.worldometers.info/world-population/japan-population/>
