@@ -83,3 +83,7 @@ As of my knowledge cutoff in September 2021, the world population growth rate wa
 It's worth noting that population growth rates can change over time due to various factors, such as changes in birth rates, mortality rates, and migration patterns. Additionally, population growth rates can have significant impacts on issues such as resource consumption, environmental sustainability, and social and economic development.
 
 ![World population growth rate from 1950 to 2100](figures/L7/L7_3.png){fig-align="center" width="600" height="400"}
+
+## Open question: Can the economy grow in Japan where the population continues to decline?
+
+Japan is currently experiencing rapid depopulation. What kind of economic policy is desired when a declining birthrate and an aging population is causing a chronic shortage of manpower in various industries and is having a seriously negative effect on management?
