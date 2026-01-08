@@ -12,7 +12,7 @@ Definition: The environmental Kuznets curve suggests that economic development i
 
 -   Empirical evidence suggests that as economies grow, they initially do increasing environmental damage--but they become more environmentally friendly once they become sufficiently rich. China, where the environment is deteriorating as the economy expands, is in effect moving from A to B. Richer countries may be moving from C to D, using some of their growth to improve the environment.
 
-![Figure: Environmental Kuznet Curve](figures/L10/L10_1.jpg){width="413"}
+![Figure: Environmental Kuznet Curve](figures/L10/L10_1.jpg){width="598"}
 
 -   In the early 1990s, Princeton economists Gene Grossman and Alan Krueger, studying the relationship between national income levels and pollutants such as sulfur dioxide, found that these offsetting effects of economic growth lead to a distinctive "inverted U" relationship between per-capita income and environmental damage known as the environmental Kuznets curve. This concept, whose relevance has been confirmed by a great deal of further research, is illustrated schematically in Figure 9a.
 
@@ -20,9 +20,9 @@ Definition: The environmental Kuznets curve suggests that economic development i
 
 -   But when a country gets sufficiently rich, it can afford to take action to protect the environment. As the United States has grown richer in recent decades, it has also moved to limit pollution. For example, cars are required to have catalytic converters that reduce smog, and a government-licensing scheme limits emissions of sulfur dioxide from power plants. In terms of Figure 9a, the United States has on some fronts, such as local air pollution, moved from C to D: growing richer and doing less damage to the environment. Figure 9b shows different stages of EKC.
 
-![Figure: Different stages in EKC](figures/L10/L10_2.jpg)
+![Figure: Different stages in EKC](figures/L10/L10_2.jpg){width="642"}
 
-- Below is the UK CO2 output per capita. In a way it neatly mirrors the environmental Kuznets curve. From 1820 to 1970, CO2 pollution increased from 2 tonnes per capita to 12 tonnes. But, since then it has fallen. A large part of this reflects the decline in coal production, one of the main stays of the industrial revolution.
+-   Below is the UK CO2 output per capita. In a way it neatly mirrors the environmental Kuznets curve. From 1820 to 1970, CO2 pollution increased from 2 tonnes per capita to 12 tonnes. But, since then it has fallen. A large part of this reflects the decline in coal production, one of the main stays of the industrial revolution.
 
 ![](figures/L10/uk-co2-per-capita-1820-2019.png){fig-align="center"}
 
@@ -37,6 +37,36 @@ Definition: The environmental Kuznets curve suggests that economic development i
 -   The emergence of this phenomenon is believed to be related to neglected environmental regulations and slow technological innovation.
 
 ![Figure: N-shaped EKC](figures/L10/L10_4.png){width="766"}
+
+## Causes of Environmental Kuznets curve
+
+-   **Empirical evidence of declining pollution levels with economic growth**. Studies found that higher economic growth in the US led to increased use of cars, but at the same time – due to regulation, levels of air pollution (in particular sulphur dioxide levels declined). See: Kuznets curve a Primer
+
+-   **Spare income with growth**. With higher rates of economic growth, people have more discretionary income after paying for basic necessities; therefore, they are more amenable to paying higher prices in return for better environmental standards.
+
+-   **Focus on living standards as opposed to real GDP**. Traditional economic theory concentrates on increasing real GDP and rates of economic growth. But there is a growing awareness the link between economic growth and living standards can be weak. Focusing on living standards can become politically popular.
+
+-   **Improved technology**. The primary driving force behind long-term economic growth is improved technology and higher productivity. With higher productivity, we can see higher output, with less raw materials used. For example, since the 1950s, the technology of car use has significantly improved fuel efficiency. In the 1950s, many cars had very low miles per gallon. In recent years, car manufacturers have made strides in reducing fuel consumption and have started to develop hybrid technology.
+
+-   **Solar and renewable energy**. A good example of how improved technology has reduced potential for environmental damage is the progress in solar technology. In recent years, the cost of solar energy has significantly fallen – raising the prospect of clean technology. See: Solar technology
+
+-   **De-industrialization**. Initially, economic development leads to shifting from farming to manufacturing. This leads to greater environmental degradation. However, increased productivity and rising real incomes see a third shift from industrial to the service sector. An economy like the UK has seen industrialization shrink as a share of the economy. The service sector usually has a lower environmental impact than manufacturing.
+
+-   **Role of government regulation**. Economic growth and development usually see a growth in the size of government as a share of GDP. The government are able to implement taxes and regulations in an attempt to solve environmental externalities which harm health and living standards.
+
+-   **Diminishing marginal utility of income**. Rising income has a diminishing marginal utility. The benefit from your first £10,000 annual income is very high. But, if income rises from £90,000- £100,000 the gain is very limited in comparison. Having a very high salary is of little consolation if you live with environmental degradation (e.g. congestion, pollution and ill health). Therefore a rational person who is seeing rising incomes will begin to place greater stress on improving other aspects of living standards.
+
+## Criticisms of Kuznets Environmental Curve
+
+-   **Empirical evidence is mixed**. There is no guarantee that economic growth will see a decline in pollutants. We have seen a fall in visible pollution (e.g. London smogs of the 1950s). But, a growth in less visible pollutants, such as Amonia, Nitrous Oxide (N₂O)- increasing at about \~1 ppb per year in recent decades and Methane 2.6× higher today than in the 1700s.
+
+-   **Pollution is not simply a function of income, but many factors**. For example, the effectiveness of government regulation, the development of the economy, population levels.
+
+-   **Global pollution**. Many developed economies have seen a reduction in industry and growth in the service sector, but they are still importing goods from developing countries. In that sense, they are exporting environmental degradation. Pollution may reduce in the UK, US, but countries who export to these countries are seeing higher levels of environmental degradation. One example is with regard to deforestation. Higher-income countries tend to stop the process of deforestation, but at the same time, they still import meat and furniture from countries who are creating farmland out of forests.
+
+-   **Growth leads to greater resource use**. Some economists argue that there is a degree of reduced environmental degradation post-industrialization. But, if the economy continues to expand, then inevitably some resources will continue to be used in greater measure. There is no guarantee that long-term levels of environmental degradation will continue to fall.
+
+-   **Countries with the highest GDP have highest levels of CO2 emission**. For example, US has CO2 emissions of 17.564 tonnes per-capita. Ethiopia has by comparison 0.075 tonnes per-capita. China’s CO2 emissions have increased from 1,500 million tonnes in 1981 to 8,000 million tonnes in 2009.
 
 ## What does Kuznet Curve have to do with international trade?
 
@@ -57,6 +87,8 @@ When ships get too old to continue operating, they are disassembled to recover t
 Pollution is the classic example of a negative externality---a cost that individuals impose on others but don't pay for. That's why pollution is a valid reason for government intervention. However, different forms of pollution have very different geographical reach---and only those that extend across national boundaries obviously justify international concern.
 
 Thus, to the extent that Indian ship breaking pollutes the local environment. this is a problem for India; it's less clear that it is a problem for other countries. Similarly, air pollution in Mexico City is a problem for Mexico; it's not clear why it's a valid U.S. interest. On the other hand, emissions of carbon dioxide affect the future climate for all countries: They're an international externality and deserve to be the subject of international negotiation.
+
+![](figures/L10/Shipbreaking-1200x675.jpg){fig-align="center"}
 
 **References:**
 
