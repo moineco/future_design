@@ -1,8 +1,27 @@
 # Globalization and the Environment
 
-Concerns about human impacts on the environment are growing in much of the world. In turn, these concerns are playing a growing role in domestic politics. environmental issues are playing a growing role in disputes about international trade as well. Some anti-globalization activists claim that growing international trade automatically harms the environment; some also claim that international trade agreements---and the role of the World Trade Organization in particular---have the effect of blocking environmental action.
+## What is Globalization
 
-Most international economists view the first claim as simplistic and disagree with the second. That is, they deny that there is a simple relationship between globalization and environmental damage and do not believe that trade agreements prevent countries from having enlightened environmental policies. Nonetheless, the intersection of trade and the environment does raise a number of important issues.
+Definition: Globalization describes the growing interdependence of the world’s economies, cultures, and populations, brought about by cross-border trade in goods and services, technology, and flows of investment, people, and information.
+
+Globalization significantly impacts the environment by increasing pollution (transportation, industry), deforestation, and resource depletion through heightened trade, production, and consumption, but it also offers potential benefits like diffusing cleaner technologies and fostering global environmental regulations, creating a complex dynamic where economic growth often clashes with ecological sustainability, requiring careful policy to balance. 
+
+### Negative Impacts
+
+- Pollution: Increased global shipping and manufacturing raise greenhouse gas emissions, contributing to climate change, ocean acidification, and poor air quality, with major issues like plastic waste accumulation.
+
+- Deforestation & Land Degradation: Expansion of commercial agriculture, urbanization, and logging clear forests, leading to habitat loss, soil erosion, desertification, and biodiversity decline.
+
+- Resource Depletion: Greater demand for resources like fresh water and fossil fuels strains natural supplies, particularly in developing nations.
+
+ 
+## Positive Impacts
+
+- Technology Diffusion: Globalization can spread cleaner technologies and more efficient production methods globally.
+
+- Environmental Governance: It fosters international cooperation, leading to global agreements and coordinated environmental practices (e.g., treaties on tropical timber).
+
+- Economic Growth & Reform: While sometimes driving pollution, growth also provides resources for environmental investment; some research suggests political globalization can moderate emissions. 
 
 ## The Environmental Kuznets Curve (EKC)
 
