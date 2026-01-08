@@ -6,6 +6,8 @@ Most international economists view the first claim as simplistic and disagree wi
 
 ## The Environmental Kuznets Curve (EKC)
 
+Definition: The environmental Kuznets curve suggests that economic development initially leads to a deterioration in the environment, but after a certain level of economic growth, a society begins to improve its relationship with the environment and levels of environmental degradation reduces.
+
 ### The inverted U-shaped EKC
 
 -   Empirical evidence suggests that as economies grow, they initially do increasing environmental damage--but they become more environmentally friendly once they become sufficiently rich. China, where the environment is deteriorating as the economy expands, is in effect moving from A to B. Richer countries may be moving from C to D, using some of their growth to improve the environment.
@@ -19,6 +21,10 @@ Most international economists view the first claim as simplistic and disagree wi
 -   But when a country gets sufficiently rich, it can afford to take action to protect the environment. As the United States has grown richer in recent decades, it has also moved to limit pollution. For example, cars are required to have catalytic converters that reduce smog, and a government-licensing scheme limits emissions of sulfur dioxide from power plants. In terms of Figure 9a, the United States has on some fronts, such as local air pollution, moved from C to D: growing richer and doing less damage to the environment. Figure 9b shows different stages of EKC.
 
 ![Figure: Different stages in EKC](figures/L10/L10_2.jpg)
+
+- Below is the UK CO2 output per capita. In a way it neatly mirrors the environmental Kuznets curve. From 1820 to 1970, CO2 pollution increased from 2 tonnes per capita to 12 tonnes. But, since then it has fallen. A large part of this reflects the decline in coal production, one of the main stays of the industrial revolution.
+
+![](figures/L10/uk-co2-per-capita-1820-2019.png){fig-align="center"}
 
 ### The N-shaped EKC
 
