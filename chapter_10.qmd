@@ -68,7 +68,7 @@ Definition: The environmental Kuznets curve suggests that economic development i
 
 -   **Countries with the highest GDP have highest levels of CO2 emission**. For example, US has CO2 emissions of 17.564 tonnes per-capita. Ethiopia has by comparison 0.075 tonnes per-capita. China’s CO2 emissions have increased from 1,500 million tonnes in 1981 to 8,000 million tonnes in 2009.
 
-## What does Kuznet Curve have to do with international trade?
+## Trade liberalization and Environmental Kuznets Curve 
 
 -   Trade liberalization is often advocated on the grounds that it will promote economic growth. To the extent that it succeeds in accomplishing this end, it will raise per-capita income. Will this improve or worsen environmental quality? It depends which side of the environmental Kuznets curve an economy is on. In their original paper, which was in part a response to critics of the North American Free Trade Agreement who argued that the agreement would be environmentally harmful, Grossman and Krueger suggested that Mexico might be on the right side of the curve---that is, to the extent that NAFTA raises Mexican income, it might actually lead to a reduction in environmental damage.
 

@@ -54,6 +54,16 @@ We focus on four main categories of environmental problems: (A) air pollution, (
 
 -   Many green issues have to do with the health of specific species of animals or plants, or ecosystems, consisting of interconnected species of animals and plants. The rapid rise in the earth's population has inevitably placed great strain on wild ecosystems around the planet.
 
+### E. Ecological Footprint:
+
+The Ecological Footprint (EF) is the only metric that measures how much nature we have and how much nature we use. Ecological Footprint accounting measures the demand on and supply of nature.
+
+On the demand side, the Ecological Footprint adds up all the biologically productive areas for which a population, a person or a product competes. It measures the ecological assets that a given population or product requires to produce the natural resources it consumes (including plant-based food and fiber products, livestock and fish products, timber and other forest products, space for urban infrastructure) and to absorb its waste, especially carbon emissions.
+
+The Ecological Footprint tracks the use of productive surface areas. Typically these areas are: cropland, grazing land, fishing grounds, built-up land, forest area, and carbon demand on land.
+
+On the supply side, a city, state or nation’s biocapacity represents the productivity of its ecological assets (including cropland, grazing land, forest land, fishing grounds, and built-up land). These areas, especially if left unharvested, can also serve to absorb the waste we generate, especially our carbon emissions from burning fossil fuel.
+
 ## Environmental regulation
 
 There is a surprising amount of similarity in how countries around the world have responded to environmental problems. I will discuss about very superficial examination of environmental protection regulation in the European Union, Russia, and the United States.
