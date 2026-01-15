@@ -68,7 +68,7 @@ Stern Review on the Economics of Climate Change:
 
 ![Figure: Honey Bee](figures/L11/L11_3.jpg){width="400" height="300"}
 
-> DEFINITION: An externality exists when the consumption or production choices of one person or firm enters the utility or production function of another entity without that entity's permission or compensation.
+DEFINITION: An externality exists when the consumption or production choices of one person or firm enters the utility or production function of another entity without that entity's permission or compensation.
 
 ## Public goods and bads
 
@@ -82,7 +82,7 @@ Stern Review on the Economics of Climate Change:
 
 ![Figure: Fishery on the high seas](figures/L11/L11_4.jpg){width="400" height="300"}
 
-> DEFINITION A good is excludable if it is feasible and practical to selectively allow consumers to consume the good. A bad is excludable if it is feasible and practical to selectively allow consumers to avoid consumption of the bad.
+DEFINITION: A good is excludable if it is feasible and practical to selectively allow consumers to consume the good. A bad is excludable if it is feasible and practical to selectively allow consumers to avoid consumption of the bad.
 
 -   Why is excludability important? Because to attach a price to the consumption of a good or bad, we have to be able to deny that consumption if the price is not paid. This is how market allocation works. For a good, this is a straightforward concept. If I produce hamburgers, I must be able to deny you the right to consume a hamburger unless you pay for it.
 
