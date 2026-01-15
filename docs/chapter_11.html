@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -282,11 +311,11 @@ ul.task-list li input[type="checkbox"] {
 <section id="worst-market-failures-in-human-history" class="level2" data-number="8.3">
 <h2 data-number="8.3" class="anchored" data-anchor-id="worst-market-failures-in-human-history"><span class="header-section-number">8.3</span> Worst Market Failures in Human History</h2>
 <ul>
-<li>According to the chief economist for the World Bank, Nicholas Stern, climate change is the greatest market failure in human history. Greenhouse gas emissions are a classic externality, where everyone on earth subsidizes oil companies and consumers of fossil fuels. Fossil fuels are under-priced by $40 trillion — a rough estimate of the cost that future generations will pay for damage we’re doing to the Earth.</li>
+<li>According to the chief economist for the World Bank, Nicholas Stern, <strong>climate change is the greatest market failure in human history</strong>. Greenhouse gas emissions are a classic externality, where everyone on earth subsidizes oil companies and consumers of fossil fuels. Fossil fuels are under-priced by $40 trillion — a rough estimate of the cost that future generations will pay for damage we’re doing to the Earth.</li>
 </ul>
 <p>Why it’s a market failure:&nbsp;</p>
 <ul>
-<li><p>Negative Externality: The core issue is that burning fossil fuels and other activities generate pollution (like (_{2})), but the price of energy doesn’t reflect the damage these emissions cause to the climate and future generations, notes ClimateScience and LSE.</p></li>
+<li><p>Negative Externality: The core issue is that burning fossil fuels and other activities generate pollution (like <span class="math inline">\(CO_2\)</span>), but the price of energy doesn’t reflect the damage these emissions cause to the climate and future generations.</p></li>
 <li><p>Unpriced Costs: The economic system doesn’t account for costs like biodiversity loss, ocean acidification, and severe weather, forcing society to pay for them later, according to ClimateScience.</p></li>
 <li><p>Intergenerational Equity: Polluters today shift massive costs onto future generations, who have no say in current emissions</p></li>
 </ul>
