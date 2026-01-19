@@ -24,6 +24,10 @@ Blue carbon is the term for carbon captured by the world's ocean and coastal eco
 
 ![Figure: Blue carbon (Source: www.oceanservice.noaa.gov)](figures/L12/L12_3.jpg){width="400" height="300"}
 
+Mangroves, tidal marshes, and seagrasses have been recognized as blue carbon coastal ecosystems as they accommodate large carbon stocks, enable long-term carbon storage, have the capacity to control greenhouse gas emissions and possess the potential to reduce the rise in atmospheric CO2 levels.
+
+![Mangrove in Okinawa, Japan](figures/L12/L12_10.webp){fig-align="center" width="569"}
+
 ### Effects of Changing the Carbon Cycle
 
 -   All of this extra carbon needs to go somewhere. So far, land plants and the ocean have taken up about 55 percent of the extra carbon people have put into the atmosphere while about 45 percent has stayed in the atmosphere. Eventually, the land and oceans will take up most of the extra carbon dioxide, but as much as 20 percent may remain in the atmosphere for many thousands of years.
@@ -61,6 +65,18 @@ The nitrogen cycle refers to the movement of nitrogen within and between the atm
 -   Increased precipitation can increase erosion and thus increase the transport of nitrogen (and other chemical nutrients) into soils, freshwater environments, and coastal waters.
 
 -   Deforestation, habitat loss, and erosion can reduce the nutrient levels in soils.
+
+### Organic nitrogen fertilizer use in wineries of Australia
+
+Australian organic wineries manage nitrogen naturally through cover crops (legumes like medic fix nitrogen), compost, and biodynamic practices, reducing reliance on synthetic fertilizers.
+
+![](figures/L12/L12_7.jpg){fig-align="center" width="483"}
+
+![](figures/L12/L12_8.jpg){fig-align="center"}
+
+Leguminous crops (such as soybeans, alfalfa, peanuts, beans, and clover) possess a unique ability to utilize nitrogen, often thriving in nitrogen-deficient soils through a symbiotic relationship with Rhizobium bacteria.
+
+![](figures/L12/L12_9.jpg){fig-align="center" width="483"}
 
 ### The Haber-Bosch Process
 
