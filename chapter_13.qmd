@@ -2,24 +2,31 @@
 
 **Biological diversity, or biodiversity for short, means the diversity of life in all its forms.**
 
-Biodiversity is a characteristic of ecosystems which enables ecosystems to flourish.
-
 ![Figure: Nature's Properties](figures/L13/L13_1.png){width="400" height="400"}
 
-- What can destroy the biodiversity?
+## Economic benefits of biodiversity
 
-Our demand for food, water, timber, fibre, minerals, and the dams that are built to supply water and produce electricity visibly destroy biodiversity. By tearing the landscape apart, mining and quarrying are also significant factors in biodiversity loss. 
+Over half of global GDP dependent on nature.
 
-### Our economies, livelihoods and well-being all depend on our most precious asset: Nature.
+Several examples:
 
-We are part of Nature, not separate from it. We rely on Nature to provide us with food, water
-and shelter; regulate our climate and disease; maintain nutrient cycles and oxygen production;
-and provide us with spiritual fulfilment and opportunities for recreation and recuperation, which can enhance our health and well-being. We also use the planet as a sink for our waste products,
-such as carbon dioxide, plastics and other forms of waste, including pollution.
+- More than 75% of global food crops rely on pollinators, contributing US$ 235–577 billion annually to global agricultural output.
+
+- Over 50% of modern medicines are derived from natural sources, including antibiotics from fungi and painkillers from plant compounds.
+
+- Forests absorbing approximately 2.6 billion tonnes of carbon dioxide annually, helping mitigate climate change.
+
+- Our economies, livelihoods and well-being all depend on our most precious asset: Nature.
+
+We are part of Nature, not separate from it. We rely on Nature to provide us with food, water and shelter; regulate our climate and disease; maintain nutrient cycles and oxygen production; and provide us with spiritual fulfillment and opportunities for recreation and recuperation, which can enhance our health and well-being. We also use the planet as a sink for our waste products, such as carbon dioxide, plastics and other forms of waste, including pollution.
+
+### What can destroy the biodiversity?
+
+Our demand for food, water, timber, fiber, minerals, and the dams that are built to supply water and produce electricity visibly destroy biodiversity. By tearing the landscape apart, mining and quarrying are also significant factors in biodiversity loss.
 
 ![Figure: Links From Biodiversity to the Economy](figures/L13/L13_2.png){width="500" height="500"}
 
-## Classifying and Valuing Assets
+## Classifying and valuing assets
 
 -   Economists reserved the term 'capital goods' even more stringently than they do now, for they only included assets that are material (tangible) and alienable (i.e. whose ownership is transferable).
 
@@ -39,7 +46,27 @@ such as carbon dioxide, plastics and other forms of waste, including pollution.
 
 ![Figure: Interaction Between the Capitals](figures/L13/L13_3.png){width="500" height="500"}
 
-## The Global Economy in the Anthropocene
+## Our economy is embedded in nature
+
+The economy is not external to nature; it is embedded within it. Nature is a capital asset that produces a flow of goods and services. Biodiversity enhances the productivity, resilience, and stability of this asset.
+
+### Inclusive wealth framework
+
+Social well-being depends on the stock of inclusive wealth:
+
+$$ IW = N + P + H $$
+$IW$ is inclusive wealth
+
+$N$ is natural capital
+
+$P$ is produced capital and 
+
+$H$ is human capital
+
+*Key problem:*
+Economic growth has been achieved by running down natural capital, especially biodiversity.
+
+## The global economy in the anthropocene
 
 -   In 1950, world population was around 2.5 billion and GDP was around 9 trillion international dollars. The average person's annual income was around 3,300 dollars PPP. Life expectancy at birth in 1950 was 46.
 
