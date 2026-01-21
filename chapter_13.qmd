@@ -1,10 +1,21 @@
 # The Economics of Biodiversity
 
-Biological diversity, or biodiversity for short, means the diversity of life in all its forms. Biodiversity is a characteristic of ecosystems which enables ecosystems to flourish.
+**Biological diversity, or biodiversity for short, means the diversity of life in all its forms.**
+
+Biodiversity is a characteristic of ecosystems which enables ecosystems to flourish.
 
 ![Figure: Nature's Properties](figures/L13/L13_1.png){width="400" height="400"}
 
-Our demand for food, water, timber, fibre, minerals, and the dams that are built to supply water and produce electricity visibly destroy biodiversity. By tearing the landscape apart, mining and quarrying are also significant factors in biodiversity loss. Substitution of produced capital (roads, buildings ports, machines) for natural capital (ecosystems) has not only characterized our investment activities but also shaped our conception of economic progress.
+- What can destroy the biodiversity?
+
+Our demand for food, water, timber, fibre, minerals, and the dams that are built to supply water and produce electricity visibly destroy biodiversity. By tearing the landscape apart, mining and quarrying are also significant factors in biodiversity loss. 
+
+### Our economies, livelihoods and well-being all depend on our most precious asset: Nature.
+
+We are part of Nature, not separate from it. We rely on Nature to provide us with food, water
+and shelter; regulate our climate and disease; maintain nutrient cycles and oxygen production;
+and provide us with spiritual fulfilment and opportunities for recreation and recuperation, which can enhance our health and well-being. We also use the planet as a sink for our waste products,
+such as carbon dioxide, plastics and other forms of waste, including pollution.
 
 ![Figure: Links From Biodiversity to the Economy](figures/L13/L13_2.png){width="500" height="500"}
 
