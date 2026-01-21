@@ -12,8 +12,6 @@ This course will consider the existence of *Future design* in an intersection of
 
 ## Syllabus of Future Design
 
-(フューチャー・デザイン)
-
 **Section 1: What is Future Design**
 
 -   Lecture 1: Introduction to Future Design
@@ -60,19 +58,19 @@ This course will consider the existence of *Future design* in an intersection of
 <!-- | b\. Answering the assignments and quizzes | 40%    | -->
 <!-- | c\. Final examination/report (TBA)        | 50%    | -->
 
-### Assignment submission
+<!-- ### Assignment submission -->
 
--   Regarding the assignments, you have to write **10 \~ 200 words** (in English) to get evaluated. Writing with logical explanation and examples are the main criteria of evaluation. If you can create exceptional arguments to support your discussion, I will provide bonus points for that assignment.
+<!-- -   Regarding the assignments, you have to write **10 \~ 200 words** (in English) to get evaluated. Writing with logical explanation and examples are the main criteria of evaluation. If you can create exceptional arguments to support your discussion, I will provide bonus points for that assignment. -->
 
-<!-- #### Submit the assignments through KUTLMS Moodle -->
+<!-- #### Submit the assignments through KUTLMS Moodle --> 
 
-### Quiz submission
+<!-- ### Quiz submission -->
 
--   There is no word limit for quiz submission. Most of the quizzes are short and instantaneous.
--   Quizzes should be available through the QR code during the lecture time.
+<!-- -   There is no word limit for quiz submission. Most of the quizzes are short and instantaneous. -->
+<!-- -   Quizzes should be available through the QR code during the lecture time. -->
 
-#### future.moinul\@gmail.com
+<!-- #### future.moinul\@gmail.com -->
 
-<!-- #### KUTLMS Moodle key: <!-- future--> 
+<!-- #### KUTLMS Moodle key: <!-- future-->  
 
-Office hours: By appointment, please email
+<!-- Office hours: By appointment, please email -->
