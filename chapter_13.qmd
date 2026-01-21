@@ -10,13 +10,17 @@ Over half of global GDP dependent on nature.
 
 Several examples:
 
-- More than 75% of global food crops rely on pollinators, contributing US$ 235–577 billion annually to global agricultural output.
+-   More than 75% of global food crops rely on pollinators, contributing US\$ 235–577 billion annually to global agricultural output.
 
-- Over 50% of modern medicines are derived from natural sources, including antibiotics from fungi and painkillers from plant compounds.
+    ![](figures/L13/L13_8.jpeg){width="468"}
 
-- Forests absorbing approximately 2.6 billion tonnes of carbon dioxide annually, helping mitigate climate change.
+-   Over 50% of modern medicines are derived from natural sources, including antibiotics from fungi and painkillers from plant compounds.
 
-- Our economies, livelihoods and well-being all depend on our most precious asset: Nature.
+    ![](figures/L13/L13_9.jpg){width="476"}
+
+-   Forests absorbing approximately 2.6 billion tonnes of carbon dioxide annually, helping mitigate climate change.
+
+-   Our economies, livelihoods and well-being all depend on our most precious asset: Nature.
 
 We are part of Nature, not separate from it. We rely on Nature to provide us with food, water and shelter; regulate our climate and disease; maintain nutrient cycles and oxygen production; and provide us with spiritual fulfillment and opportunities for recreation and recuperation, which can enhance our health and well-being. We also use the planet as a sink for our waste products, such as carbon dioxide, plastics and other forms of waste, including pollution.
 
@@ -24,11 +28,11 @@ We are part of Nature, not separate from it. We rely on Nature to provide us wit
 
 Our demand for food, water, timber, fiber, minerals, and the dams that are built to supply water and produce electricity visibly destroy biodiversity. By tearing the landscape apart, mining and quarrying are also significant factors in biodiversity loss.
 
-![Figure: Links From Biodiversity to the Economy](figures/L13/L13_2.png){width="500" height="500"}
-
 ## Classifying and valuing assets
 
 -   Economists reserved the term 'capital goods' even more stringently than they do now, for they only included assets that are material (tangible) and alienable (i.e. whose ownership is transferable).
+
+![Figure: Links From Biodiversity to the Economy](figures/L13/L13_2.png){width="500" height="500"}
 
 ### Produced capital
 
@@ -54,17 +58,15 @@ The economy is not external to nature; it is embedded within it. Nature is a cap
 
 Social well-being depends on the stock of inclusive wealth:
 
-$$ IW = N + P + H $$
-$IW$ is inclusive wealth
+$$ IW = N + P + H $$ $IW$ is inclusive wealth
 
 $N$ is natural capital
 
-$P$ is produced capital and 
+$P$ is produced capital and
 
 $H$ is human capital
 
-*Key problem:*
-Economic growth has been achieved by running down natural capital, especially biodiversity.
+*Key problem:* Economic growth has been achieved by running down natural capital, especially biodiversity.
 
 ## The global economy in the anthropocene
 
