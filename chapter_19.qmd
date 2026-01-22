@@ -1,0 +1,65 @@
+# A Safe Operating Space for Humanity
+
+## Planetary Boundaries
+
+The planetary boundaries framework highlights the rising risks from human pressure on nine critical global processes that regulate the stability and resilience of the Earth.
+
+The planetary boundaries were first proposed in 2009 by a group of 28 internationally renowned scientists led by former centre director Johan Rockström. Combining insights from many fields of global environmental change research, the framework highlights nine global change processes where human activities affect Earth system functioning. Planetary boundaries are quantitative assessments of the safe limits for human pressure on these nine critical processes.
+
+Planetary boundaries are interdependent. The long-term large-scale stability of the past, which allowed human societies to develop and thrive, comes from the complex interactions of biophysical processes within the Earth system. This means we cannot consider planetary boundaries in isolation in any decision-making on sustainability. Action that affects one process in the planetary boundaries framework will affect the risks of the other processes. Only by respecting all nine boundaries can we maintain the safe operating space for humanity.
+
+### Planetary boundaries in 2009
+
+![](figures/L19/L19_1.png){fig-align="center" width="378"}
+
+### Planetary boundaries in 2015
+
+![](figures/L19/L19_2.png){fig-align="center" width="380"}
+
+### Planetary boundaries in 2023
+
+![](figures/L19/L19_3.png){fig-align="center" width="392"}
+
+### Planetary boundaries in 2025
+
+![](figures/L19/L19_4.png){fig-align="center" width="433"}
+
+Source: <https://www.stockholmresilience.org/research/planetary-boundaries.html>
+
+## The nine planetary boundaries and their status
+
+### Climate change: 
+
+Increased greenhouse gases and aerosols in Earth's atmosphere trap heat that would otherwise escape into space. The climate change planetary boundary assesses the change in the ratio of incoming and outgoing energy of the Earth. More carbon dioxide in the atmosphere and more trapped radiation causes global temperatures to rise and alters climate patterns. This boundary is transgressed, and CO2 concentrations are rising.
+
+### Novel entities: 
+
+Technological developments introduce novel synthetic chemicals into the environment, mobilize materials in wholly new ways, modify the genetics of living organisms, and otherwise intervene in evolutionary processes and change the functioning of the Earth system. The amount of synthetic substances released into the environment without adequate safety testing places novel entities in the high-risk zone.
+
+### Stratospheric ozone depletion: 
+
+Ozone high in the atmosphere protects life on Earth from incoming ultraviolet radiation. The thinning of the ozone layer, primarily due to human-made chemicals, allows more harmful UV radiation to reach Earth's surface.  Total ozone is slowly recovering because of the international phasing-out of ozone-depleting substances since the late 1980s. Ozone depletion is therefore currently in the Safe Operating Space.
+
+### Atmospheric aerosol loading: 
+
+Changes in airborne particles from human activities and natural sources influence the climate by altering temperature and precipitation patterns. Although large-scale air pollution already causes changes to monsoon systems, forest biomes and marine ecosystems, the global metric used in the planetary boundaries framework – interhemispheric difference in atmospheric aerosol loading – places this process just within the Safe Operating Space.
+
+### Ocean acidification: 
+
+The acidity of ocean water increases (its pH decreases) as it absorbs atmospheric CO2. This process harms organisms that need calcium carbonate to make their shells or skeletons, impacting marine ecosystems, and it reduces the ocean's efficiency in acting as a carbon sink. The 2025 Planetary Health Check showed that the Ocean Acidification boundary has been breached for the first time. Since the start of the industrial era, the ocean’s surface pH has fallen by around 0.1 units, a 30-40% increase in acidity, pushing marine ecosystems beyond safe limits and degrading the oceans’ ability to act as Earth’s stabiliser.
+
+### Modification of biogeochemical flows: 
+
+Nutrient elements like nitrogen and phosphorus are crucial for supporting life and maintaining ecosystems. Industrial and agricultural processes disrupt natural cycles and modify the nutrient balance for living organisms. This boundary is transgressed, because both the global phosphorus flow into the ocean and the industrial fixation of nitrogen (converting stable nitrogen from the atmosphere into bioreactive forms) have disrupted global biogeochemical flows.
+
+### Freshwater change: 
+
+The alteration of freshwater cycles, including rivers and soil moisture, impacts natural functions such as carbon sequestration and biodiversity, and can lead to shifts in precipitation levels. Human-induced disturbances of both blue water (e.g. rivers and lakes) and green water (i.e. soil moisture) have exceeded the planetary boundary.
+
+### Land system change: 
+
+The transformation of natural landscapes, such as through deforestation and urbanization, disrupts habitats and biodiversity and diminishes ecological functions like carbon sequestration and moisture recycling. Globally, the remaining forest areas in tropical, boreal, and temperate biomes have fallen below safe levels.
+
+### Biosphere integrity: 
+
+The diversity, extent, and health of living organisms and ecosystems affects the state of the planet by co-regulating the energy balance and chemical cycles on Earth. Disrupting biodiversity threatens this co-regulation and dynamic stability. Both the loss of genetic diversity and the decline in the functional integrity of the biosphere are outside safe levels.
