@@ -18,27 +18,27 @@
 
 Many types of imbalances can affect the equilibrium of the markets. The following list provides an overview of some common causes of market failure.
 
-- Externalities: Externalities occur when the consumption of a good or service benefits or harms a third party.
+-   Externalities: Externalities occur when the consumption of a good or service benefits or harms a third party.
 
-- Information failure: When there is insufficient information available to certain participants in the market, this can also be the source of market failure.
+-   Information failure: When there is insufficient information available to certain participants in the market, this can also be the source of market failure.
 
-- Market control: When one party has too much control over a market, this can also create imbalanced pricing and lead to market failure.
+-   Market control: When one party has too much control over a market, this can also create imbalanced pricing and lead to market failure.
 
-- Public goods: Public goods are another example of market failure because they defy the tenets of supply and demand that drive the free markets.
+-   Public goods: Public goods are another example of market failure because they defy the tenets of supply and demand that drive the free markets.
 
 ## Worst Market Failures in Human History
 
-- According to the chief economist for the World Bank, Nicholas Stern, **climate change is the greatest market failure in human history**. Greenhouse gas emissions are a classic externality, where everyone on earth subsidizes oil companies and consumers of fossil fuels. Fossil fuels are under-priced by $40 trillion — a rough estimate of the cost that future generations will pay for damage we’re doing to the Earth.
+-   According to the chief economist for the World Bank, Nicholas Stern, **climate change is the greatest market failure in human history**. Greenhouse gas emissions are a classic externality, where everyone on earth subsidizes oil companies and consumers of fossil fuels. Fossil fuels are under-priced by \$40 trillion — a rough estimate of the cost that future generations will pay for damage we’re doing to the Earth.
 
 Why it's a market failure: 
 
-- Negative Externality: The core issue is that burning fossil fuels and other activities generate pollution (like $CO_2$), but the price of energy doesn't reflect the damage these emissions cause to the climate and future generations.
+-   Negative Externality: The core issue is that burning fossil fuels and other activities generate pollution (like $CO_2$), but the price of energy doesn't reflect the damage these emissions cause to the climate and future generations.
 
-- Unpriced Costs: The economic system doesn't account for costs like biodiversity loss, ocean acidification, and severe weather, forcing society to pay for them later, according to ClimateScience.
+-   Unpriced Costs: The economic system doesn't account for costs like biodiversity loss, ocean acidification, and severe weather, forcing society to pay for them later, according to ClimateScience.
 
-- Intergenerational Equity: Polluters today shift massive costs onto future generations, who have no say in current emissions
+-   Intergenerational Equity: Polluters today shift massive costs onto future generations, who have no say in current emissions
 
-Stern Review on the Economics of Climate Change: 
+Stern Review on the Economics of Climate Change:
 
 <https://webarchive.nationalarchives.gov.uk/ukgwa/+/http://www.hm-treasury.gov.uk/sternreview_index.htm>
 

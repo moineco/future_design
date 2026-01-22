@@ -4,24 +4,23 @@
 
 Definition: Globalization describes the growing interdependence of the world’s economies, cultures, and populations, brought about by cross-border trade in goods and services, technology, and flows of investment, people, and information.
 
-Globalization significantly impacts the environment by increasing pollution (transportation, industry), deforestation, and resource depletion through heightened trade, production, and consumption, but it also offers potential benefits like diffusing cleaner technologies and fostering global environmental regulations, creating a complex dynamic where economic growth often clashes with ecological sustainability, requiring careful policy to balance. 
+Globalization significantly impacts the environment by increasing pollution (transportation, industry), deforestation, and resource depletion through heightened trade, production, and consumption, but it also offers potential benefits like diffusing cleaner technologies and fostering global environmental regulations, creating a complex dynamic where economic growth often clashes with ecological sustainability, requiring careful policy to balance.
 
 ### Negative Impacts
 
-- Pollution: Increased global shipping and manufacturing raise greenhouse gas emissions, contributing to climate change, ocean acidification, and poor air quality, with major issues like plastic waste accumulation.
+-   Pollution: Increased global shipping and manufacturing raise greenhouse gas emissions, contributing to climate change, ocean acidification, and poor air quality, with major issues like plastic waste accumulation.
 
-- Deforestation & Land Degradation: Expansion of commercial agriculture, urbanization, and logging clear forests, leading to habitat loss, soil erosion, desertification, and biodiversity decline.
+-   Deforestation & Land Degradation: Expansion of commercial agriculture, urbanization, and logging clear forests, leading to habitat loss, soil erosion, desertification, and biodiversity decline.
 
-- Resource Depletion: Greater demand for resources like fresh water and fossil fuels strains natural supplies, particularly in developing nations.
+-   Resource Depletion: Greater demand for resources like fresh water and fossil fuels strains natural supplies, particularly in developing nations.
 
- 
 ## Positive Impacts
 
-- Technology Diffusion: Globalization can spread cleaner technologies and more efficient production methods globally.
+-   Technology Diffusion: Globalization can spread cleaner technologies and more efficient production methods globally.
 
-- Environmental Governance: It fosters international cooperation, leading to global agreements and coordinated environmental practices (e.g., treaties on tropical timber).
+-   Environmental Governance: It fosters international cooperation, leading to global agreements and coordinated environmental practices (e.g., treaties on tropical timber).
 
-- Economic Growth & Reform: While sometimes driving pollution, growth also provides resources for environmental investment; some research suggests political globalization can moderate emissions. 
+-   Economic Growth & Reform: While sometimes driving pollution, growth also provides resources for environmental investment; some research suggests political globalization can moderate emissions.
 
 ## The Environmental Kuznets Curve (EKC)
 
@@ -87,7 +86,7 @@ Definition: The environmental Kuznets curve suggests that economic development i
 
 -   **Countries with the highest GDP have highest levels of CO2 emission**. For example, US has CO2 emissions of 17.564 tonnes per-capita. Ethiopia has by comparison 0.075 tonnes per-capita. China’s CO2 emissions have increased from 1,500 million tonnes in 1981 to 8,000 million tonnes in 2009.
 
-## Trade liberalization and Environmental Kuznets Curve 
+## Trade liberalization and Environmental Kuznets Curve
 
 -   Trade liberalization is often advocated on the grounds that it will promote economic growth. To the extent that it succeeds in accomplishing this end, it will raise per-capita income. Will this improve or worsen environmental quality? It depends which side of the environmental Kuznets curve an economy is on. In their original paper, which was in part a response to critics of the North American Free Trade Agreement who argued that the agreement would be environmentally harmful, Grossman and Krueger suggested that Mexico might be on the right side of the curve---that is, to the extent that NAFTA raises Mexican income, it might actually lead to a reduction in environmental damage.
 
