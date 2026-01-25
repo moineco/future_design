@@ -22,6 +22,8 @@ Planetary boundaries are interdependent. The long-term large-scale stability of 
 
 ### Planetary boundaries in 2025
 
+This planetary boundaries framework update finds that seven of the nine boundaries are transgressed, suggesting that Earth is now well outside of the safe operating space for humanity.
+
 ![](figures/L19/L19_4.png){fig-align="center" width="433"}
 
 Source: <https://www.stockholmresilience.org/research/planetary-boundaries.html>
@@ -81,3 +83,5 @@ The diversity, extent, and health of living organisms and ecosystems affects the
 The Doughnut, or Doughnut economics, is a visual framework for sustainable development – shaped like a doughnut or lifebelt – combining the concept of planetary boundaries with the complementary concept of social boundaries. The name derives from the shape of the diagram, i.e. a disc with a hole in the middle. The centre hole of the model depicts the proportion of people that lack access to life's essentials (healthcare, education, equity and so on) while the crust represents the ecological ceilings (planetary boundaries) that life depends on and must not be overshot. The diagram was developed by University of Oxford economist Kate Raworth in her 2012 Oxfam paper A Safe and Just Space for Humanity and elaborated upon in her 2017 book Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist and paper.
 
 ![](figures/L19/L19_5.jpg){fig-align="center"}
+
+![](figures/L19/L19_6.png){fig-align="center"}
