@@ -63,3 +63,21 @@ The transformation of natural landscapes, such as through deforestation and urba
 ### Biosphere integrity:
 
 The diversity, extent, and health of living organisms and ecosystems affects the state of the planet by co-regulating the energy balance and chemical cycles on Earth. Disrupting biodiversity threatens this co-regulation and dynamic stability. Both the loss of genetic diversity and the decline in the functional integrity of the biosphere are outside safe levels.
+
+## Economic intevention
+
+### A carbon tax
+
+-   A carbon tax works by taxing fossil fuels in proportion to carbon content. Per unit of energy, coal is taxed more heavily than oil and natural gas, while non-fossil-fuel sources of energy are untaxed. Burning fuel containing a given quantity of carbon leads predictably and unavoidably to a given amount of carbon dioxide emissions, so that a tax on the carbon content of fuels is almost equivalent to taxing carbon dioxide emissions themselves. With the exception of carbon-capture-and-storage technologies that may shortly become available for power stations no viable end-of-pipe cleaning technologies for carbon dioxide emissions are currently available.
+
+-   Taxing carbon would encourage energy users to substitute away from high-carbon energy sources towards fuels with lower emissions per unit of energy. If levied on the fuels used by power stations, for example, a carbon tax would encourage a shift away from power generation using coal towards oil and gas, and even more strongly towards untaxed renewables (wind and wave power), and towards nuclear energy.
+
+![Figure: Carbon tax](figures/L14/L14_4.png){width="500" height="400"}
+
+-   Suppose that a carbon tax T is added into the price. For a given quantity, the supplier’s price will be the old price plus the amount of the tax, and the supply curve will shift up to S\*. The new equilibrium is at point B, the quantity is the target Q1, and the price will increase to P1.
+
+## The "safe and just space" doughnut
+
+The Doughnut, or Doughnut economics, is a visual framework for sustainable development – shaped like a doughnut or lifebelt – combining the concept of planetary boundaries with the complementary concept of social boundaries. The name derives from the shape of the diagram, i.e. a disc with a hole in the middle. The centre hole of the model depicts the proportion of people that lack access to life's essentials (healthcare, education, equity and so on) while the crust represents the ecological ceilings (planetary boundaries) that life depends on and must not be overshot. The diagram was developed by University of Oxford economist Kate Raworth in her 2012 Oxfam paper A Safe and Just Space for Humanity and elaborated upon in her 2017 book Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist and paper.
+
+![](figures/L19/L19_5.jpg){fig-align="center"}
