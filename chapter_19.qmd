@@ -44,17 +44,25 @@ Keeling's measurements showed the first significant evidence of rapidly increasi
 
 Technological developments introduce novel synthetic chemicals into the environment, mobilize materials in wholly new ways, modify the genetics of living organisms, and otherwise intervene in evolutionary processes and change the functioning of the Earth system. The amount of synthetic substances released into the environment without adequate safety testing places novel entities in the high-risk zone.
 
+![](figures/L19/L19_10.png){fig-align="center"}
+
 ### Stratospheric ozone depletion:
 
 Ozone high in the atmosphere protects life on Earth from incoming ultraviolet radiation. The thinning of the ozone layer, primarily due to human-made chemicals, allows more harmful UV radiation to reach Earth's surface. Total ozone is slowly recovering because of the international phasing-out of ozone-depleting substances since the late 1980s. Ozone depletion is therefore currently in the Safe Operating Space.
 
+![](figures/L19/L19_11.avif){fig-align="center"}
+
 ### Atmospheric aerosol loading:
 
-Changes in airborne particles from human activities and natural sources influence the climate by altering temperature and precipitation patterns. Although large-scale air pollution already causes changes to monsoon systems, forest biomes and marine ecosystems, the global metric used in the planetary boundaries framework – interhemispheric difference in atmospheric aerosol loading – places this process just within the Safe Operating Space.
+Changes in airborne particles from human activities and natural sources influence the climate by altering temperature and precipitation patterns. Although large-scale air pollution already causes changes to monsoon systems, forest biomass and marine ecosystems, the global metric used in the planetary boundaries framework – interhemispheric difference in atmospheric aerosol loading – places this process just within the Safe Operating Space.
+
+![](figures/L19/L19_12.webp){fig-align="center"}
 
 ### Ocean acidification:
 
 The acidity of ocean water increases (its pH decreases) as it absorbs atmospheric CO2. This process harms organisms that need calcium carbonate to make their shells or skeletons, impacting marine ecosystems, and it reduces the ocean's efficiency in acting as a carbon sink. The 2025 Planetary Health Check showed that the Ocean Acidification boundary has been breached for the first time. Since the start of the industrial era, the ocean’s surface pH has fallen by around 0.1 units, a 30-40% increase in acidity, pushing marine ecosystems beyond safe limits and degrading the oceans’ ability to act as Earth’s stabiliser.
+
+![](figures/L19/L19_13.png.webp){fig-align="center"}
 
 ### Modification of biogeochemical flows:
 
@@ -64,13 +72,19 @@ Nutrient elements like nitrogen and phosphorus are crucial for supporting life a
 
 The alteration of freshwater cycles, including rivers and soil moisture, impacts natural functions such as carbon sequestration and biodiversity, and can lead to shifts in precipitation levels. Human-induced disturbances of both blue water (e.g. rivers and lakes) and green water (i.e. soil moisture) have exceeded the planetary boundary.
 
+![](figures/L19/L19_14.jpg){fig-align="center"}
+
 ### Land system change:
 
 The transformation of natural landscapes, such as through deforestation and urbanization, disrupts habitats and biodiversity and diminishes ecological functions like carbon sequestration and moisture recycling. Globally, the remaining forest areas in tropical, boreal, and temperate biomes have fallen below safe levels.
 
+![](figures/L19/L19_15.png){fig-align="center"}
+
 ### Biosphere integrity:
 
 The diversity, extent, and health of living organisms and ecosystems affects the state of the planet by co-regulating the energy balance and chemical cycles on Earth. Disrupting biodiversity threatens this co-regulation and dynamic stability. Both the loss of genetic diversity and the decline in the functional integrity of the biosphere are outside safe levels.
+
+![](figures/L19/L19_20.webp){fig-align="center"}
 
 ## The "safe and just space" doughnut
 
@@ -105,5 +119,3 @@ The carbon tax is an additional tax over and above the existing Oil and Coal Tax
 However, this target is substantially lower than one recommended by environmental scientists, 76% reduction in carbon emissions by 2030 (UNFCCC, 2019).
 
 ![](figures/L19/L19_9.png){fig-align="center" width="379"}
-
-
