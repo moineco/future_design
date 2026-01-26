@@ -72,7 +72,15 @@ The transformation of natural landscapes, such as through deforestation and urba
 
 The diversity, extent, and health of living organisms and ecosystems affects the state of the planet by co-regulating the energy balance and chemical cycles on Earth. Disrupting biodiversity threatens this co-regulation and dynamic stability. Both the loss of genetic diversity and the decline in the functional integrity of the biosphere are outside safe levels.
 
-## Economic intevention
+## The "safe and just space" doughnut
+
+The Doughnut, or Doughnut economics, is a visual framework for sustainable development – shaped like a doughnut or lifebelt – combining the concept of planetary boundaries with the complementary concept of social boundaries. The name derives from the shape of the diagram, i.e. a disc with a hole in the middle. The centre hole of the model depicts the proportion of people that lack access to life's essentials (healthcare, education, equity and so on) while the crust represents the ecological ceilings (planetary boundaries) that life depends on and must not be overshot. The diagram was developed by University of Oxford economist Kate Raworth in her 2012 Oxfam paper A Safe and Just Space for Humanity and elaborated upon in her 2017 book Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist and paper.
+
+![](figures/L19/L19_5.jpg){fig-align="center"}
+
+![](figures/L19/L19_6.png){fig-align="center"}
+
+## Economic intervention to improve the condition
 
 ### A carbon tax
 
@@ -84,10 +92,18 @@ The diversity, extent, and health of living organisms and ecosystems affects the
 
 -   Suppose that a carbon tax T is added into the price. For a given quantity, the supplier’s price will be the old price plus the amount of the tax, and the supply curve will shift up to S\*. The new equilibrium is at point B, the quantity is the target Q1, and the price will increase to P1.
 
-## The "safe and just space" doughnut
+### Carbon tax in Japan
 
-The Doughnut, or Doughnut economics, is a visual framework for sustainable development – shaped like a doughnut or lifebelt – combining the concept of planetary boundaries with the complementary concept of social boundaries. The name derives from the shape of the diagram, i.e. a disc with a hole in the middle. The centre hole of the model depicts the proportion of people that lack access to life's essentials (healthcare, education, equity and so on) while the crust represents the ecological ceilings (planetary boundaries) that life depends on and must not be overshot. The diagram was developed by University of Oxford economist Kate Raworth in her 2012 Oxfam paper A Safe and Just Space for Humanity and elaborated upon in her 2017 book Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist and paper.
+In October 2012, Japan introduced Carbon tax. Japan is one of the first Asian countries to implement a carbon tax. With a tax rate of JPY289/ t-CO2 (\$2.65), Japan is set to attain 26% reduction in carbon emissions by 2030.
 
-![](figures/L19/L19_5.jpg){fig-align="center"}
+> Japan, a signatory to the 2015 Paris Agreement, has been active in implementing measures to reduce its carbon emissions. In 2012 Japan passed a carbon tax of JPY 2,89/ t-Co2 (\$2.65) which led to carbon emissions lower than 1990s levels (Ministry of Environment, 2019).
 
-![](figures/L19/L19_6.png){fig-align="center"}
+The carbon tax is an additional tax over and above the existing Oil and Coal Tax, which covers oil, natural gas and coal (electricity excluded). The tax rates for the three types of energy are different. Natural gas is taxed the highest rate, followed by fossil fuel, and coal. To mitigate the impact on the industry, Japan adopted a three-stage tax increase.
+
+![](figures/L19/L19_8.png){fig-align="center"}
+
+However, this target is substantially lower than one recommended by environmental scientists, 76% reduction in carbon emissions by 2030 (UNFCCC, 2019).
+
+![](figures/L19/L19_9.png){fig-align="center" width="379"}
+
+
