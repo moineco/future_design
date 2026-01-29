@@ -26,6 +26,10 @@ and the other half jointly to Philippe Aghion and Peter Howitt
 
 -   “for the theory of sustained growth through creative destruction”
 
+### Punch line
+
+**"The laureates’ work shows that economic growth is not automatic. We must preserve the underlying mechanisms of creative destruction to avoid falling back into stagnation."**
+
 ## From stagnation to sustained growth
 
 > **Did you know that economic stagnation, not growth, was the norm throughout most of human history?**
@@ -53,6 +57,8 @@ Key Characteristics and Causes:
 ### Economic growth cannot be taken for granted
 
 “The laureates’ work shows that economic growth cannot be taken for granted. We must uphold the mechanisms that underly creative destruction, so that we do not fall back into stagnation,” says John Hassler, Chair of the Committee for the prize in economic sciences.
+
+To illustrate, consider their metaphorical “innovation ladder.” Firms climb this ladder by investing in R&D, while others fall off as new technologies render them obsolete. The process is painful but necessary: without turnover, there is stagnation.
 
 ![](figures/L20/L20_8.jpg){fig-align="center"}
 
