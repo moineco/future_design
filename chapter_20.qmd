@@ -10,7 +10,7 @@ In 1968, Sveriges Riksbank (Sweden’s central bank) established the Sveriges Ri
 
 The prize in economic sciences is awarded by the Royal Swedish Academy of Sciences, Stockholm, Sweden, according to the same principles as for the Nobel Prizes that have been awarded since 1901.
 
-## Nobel Memorial Prize in Economic Sciences 2025 
+## Nobel Memorial Prize in Economic Sciences 2025
 
 The Royal Swedish Academy of Sciences has decided to award the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025 to Joel Mokyr, Philippe Aghion and Peter Howitt for having explained innovation-driven economic growth.
 
@@ -40,15 +40,15 @@ Technology advances rapidly and affects us all, with new products and production
 
 However, this was not always the case. Quite the opposite – stagnation was the norm throughout most of human history. Despite important discoveries now and again, which sometimes led to improved living conditions and higher incomes, growth always eventually leveled off.
 
-###  What Is Stagnation?
+### What Is Stagnation?
 
 Economic stagnation is a period characterized by slow or no growth, often with high unemployment, affecting both macroeconomic scales and specific sectors. Typically marked by a GDP growth rate of less than 2-3%.
 
 Key Characteristics and Causes:
 
-- Low Growth & Employment: GDP growth is consistently minimal or non-existent, frequently accompanied by high unemployment rates.
-- Stagnant Wages: Income levels for workers fail to rise, limiting consumer purchasing power and demand.
-- Lack of Investment/Innovation: Businesses may reduce investment, and innovation slows down, often caused by structural issues or an aging workforce.
+-   Low Growth & Employment: GDP growth is consistently minimal or non-existent, frequently accompanied by high unemployment rates.
+-   Stagnant Wages: Income levels for workers fail to rise, limiting consumer purchasing power and demand.
+-   Lack of Investment/Innovation: Businesses may reduce investment, and innovation slows down, often caused by structural issues or an aging workforce.
 
 ### The forces behind progress
 
@@ -60,7 +60,7 @@ Key Characteristics and Causes:
 
 To illustrate, consider their metaphorical “innovation ladder.” Firms climb this ladder by investing in R&D, while others fall off as new technologies render them obsolete. The process is painful but necessary: without turnover, there is stagnation.
 
-![](figures/L20/L20_8.jpg){fig-align="center"}
+![](figures/L20/L20_8.webp){fig-align="center"}
 
 ### The new normal
 
