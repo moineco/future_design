@@ -6,6 +6,8 @@ The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel has b
 
 In 1968, Sveriges Riksbank (Sweden’s central bank) established the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel. The prize is based on a donation received by the Nobel Foundation in 1968 from Sveriges Riksbank on the occasion of the bank’s 300th anniversary. The prize amount is the same as for the Nobel Prizes and is paid by the Riksbank. The first prize in economic sciences was awarded to Ragnar Frisch and Jan Tinbergen in 1969.
 
+![](figures/L20/L20_9.jpg){fig-align="center"}
+
 The prize in economic sciences is awarded by the Royal Swedish Academy of Sciences, Stockholm, Sweden, according to the same principles as for the Nobel Prizes that have been awarded since 1901.
 
 ## Nobel Memorial Prize in Economic Sciences 2025 
@@ -43,6 +45,10 @@ Key Characteristics and Causes:
 - Low Growth & Employment: GDP growth is consistently minimal or non-existent, frequently accompanied by high unemployment rates.
 - Stagnant Wages: Income levels for workers fail to rise, limiting consumer purchasing power and demand.
 - Lack of Investment/Innovation: Businesses may reduce investment, and innovation slows down, often caused by structural issues or an aging workforce.
+
+### The forces behind progress
+
+2025 economic sciences laureates Joel Mokyr and Philippe Aghion reveal the forces behind progress, and discover how **ideas, innovation and a touch of creative destruction** sparked the greatest boom in human history.
 
 ### Economic growth cannot be taken for granted
 
