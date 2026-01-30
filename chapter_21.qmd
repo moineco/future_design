@@ -1,0 +1,18 @@
+# Integrating economics with psychology
+
+The Royal Swedish Academy of Sciences has decided to award the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2017 to:
+
+Richard H. Thaler
+University of Chicago, IL, USA
+
+“for his contributions to behavioral economics”
+
+Richard H. Thaler has incorporated psychologically realistic assumptions into analyses of economic decision-making. By exploring the consequences of limited rationality, social preferences, and lack of self-control, he has shown how these human traits systematically affect individual decisions as well as market outcomes.
+
+Limited rationality: Thaler developed the theory of mental accounting, explaining how people simplify financial decision-making by creating separate accounts in their minds, focusing on the narrow impact of each individual decision rather than its overall effect. He also showed how aversion to losses can explain why people value the same item more highly when they own it than when they don’t, a phenomenon called the endowment effect. Thaler was one of the founders of the field of behavioral finance, which studies how cognitive limitations influence financial markets.
+
+Social preferences: Thaler’s theoretical and experimental research on fairness has been influential. He showed how consumers’ fairness concerns may stop firms from raising prices in periods of high demand, but not in times of rising costs. Thaler and his colleagues devised the dictator game, an experimental tool that has been used in numerous studies to measure attitudes to fairness in different groups of people around the world.
+
+Lack of self-control: Thaler has also shed new light on the old observation that New Year’s resolutions can be hard to keep. He showed how to analyse self-control problems using a planner-doer model, which is similar to the frameworks psychologists and neuroscientists now use to describe the internal tension between long-term planning and short-term doing. Succumbing to short term temptation is an important reason why our plans to save for old age, or make healthier lifestyle choices, often fail. In his applied work, Thaler demonstrated how nudging – a term he coined – may help people exercise better self-control when saving for a pension, as well in other contexts.
+
+In total, Richard Thaler’s contributions have built a bridge between the economic and psychological analyses of individual decision-making. His empirical findings and theoretical insights have been instrumental in creating the new and rapidly expanding field of behavioral economics, which has had a profound impact on many areas of economic research and policy.
