@@ -8,13 +8,24 @@ The Prize in Economic Sciences 2024 – Daron Acemoglu, Simon Johnson and James 
 
 The most trite yet crucial question in the field of economic growth and development is: Why are some countries much poorer than others?
 
+## What is institution
+
+An institution is a system of social factors that conjointly generate a regularity of behavior. For instance; government, university,  bank etc. 
 
 ### How institutions are formed and affect prosperity
 
 When Europeans colonized large parts of the globe, the institutions in those societies changed. This was sometimes dramatic, but did not occur in the same way everywhere.
 
--   In some places the aim was to exploit the indigenous population and extract resources for the colonisers’ benefit.
--   In others, the colonizers formed inclusive political and economic systems for the long-term benefit of European migrants.
+-   In some places the **aim was to exploit the indigenous population and extract resources** for the colonizers’ benefit.
+-   In others, the colonizers **formed inclusive political and economic systems** for the long-term benefit of European migrants.
+
+1. **Examples of extractive colonies** include the Democratic Republic of Congo, Peru, Bolivia, India, and much of Sub-Saharan Africa. In these places, European colonizers established institutions designed to extract natural resources and labor from indigenous populations. These institutions often relied on forced labor, heavy taxation, and limited protection of property rights for the majority of the population. Political power was highly concentrated, and economic opportunities were restricted to a small elite.
+
+2. **Examples of inclusive colonies** include the United States, Canada, Australia, and New Zealand. In these settler colonies, Europeans established institutions that protected private property, enforced the rule of law, and allowed broad participation in economic and political activities. These institutions encouraged investment, innovation, and human capital accumulation.
+
+According to Acemoglu, Johnson, and Robinson, the key determinant of these differences was settler mortality. In regions where European settlers faced high mortality due to disease, they were unlikely to settle permanently and instead set up extractive institutions. In regions with low settler mortality, Europeans settled in large numbers and created inclusive institutions resembling those in Europe.
+
+The long-run economic outcomes of these two groups of countries differ sharply. Countries with a history of inclusive institutions now have much higher levels of income per capita, stronger states, and more stable economic growth. In contrast, countries with a history of extractive institutions tend to exhibit lower income levels, weaker property rights, greater inequality, and persistent political instability.
 
 ![](figures/L18/L18_1.png){fig-align="center"}
 
