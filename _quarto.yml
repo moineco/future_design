@@ -21,8 +21,8 @@ book:
     - chapter_19.qmd
     - chapter_20.qmd
     - chapter_18.qmd
-    - chapter_16.qmd
     - chapter_17.qmd
+    - chapter_16.qmd
     - references.qmd
 
 bibliography: future_design.bib
