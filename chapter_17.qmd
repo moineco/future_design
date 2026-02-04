@@ -1,10 +1,10 @@
 # Natural experiments help answer important questions for society
 
-- The 2021 Nobel Prize in Economic Sciences was awarded to Prof David Card (UC Berkeley), Prof Joshua D. Angrist (MIT), and Prof Guido W. Imbens (Stanford) for pioneering “natural experiments” to help answer important real-world questions. They have provided us with new insights about the natural experiments. Their approach has spread to other fields and revolutionized empirical research.
+-   The 2021 Nobel Prize in Economic Sciences was awarded to Prof David Card (UC Berkeley), Prof Joshua D. Angrist (MIT), and Prof Guido W. Imbens (Stanford) for pioneering “natural experiments” to help answer important real-world questions. They have provided us with new insights about the natural experiments. Their approach has spread to other fields and revolutionized empirical research.
 
-- Many of the big questions in the social sciences deal with cause and effect. How does immigration affect pay and employment levels? How does a longer education affect someone’s future income? These questions are difficult to answer because we have nothing to use as a comparison.
+-   Many of the big questions in the social sciences deal with cause and effect. How does immigration affect pay and employment levels? How does a longer education affect someone’s future income? These questions are difficult to answer because we have nothing to use as a comparison.
 
-- However, this year’s Laureates have shown that it is possible to answer these and similar questions using natural experiments. 
+-   However, this year’s Laureates have shown that it is possible to answer these and similar questions using natural experiments.
 
 ![The 2021 economic sciences laureates](figures/L18/Nobel_2021.png){fig-align="center"}
 
