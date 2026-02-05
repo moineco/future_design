@@ -34,7 +34,7 @@ The key difference between an experiment in economics and an experiment in physi
 
 -   However, this year’s Laureates have shown that it is possible to answer these and similar questions using natural experiments. The key is to use situations in which chance events or policy changes result in groups of people being treated differently, in a way that resembles clinical trials in medicine.
 
-### Treatment/experimental and Control Groups
+### Treatment/Experimental and Control/**Placebo** Groups
 
 There are two groups in the experiment, and they are identical except that one receives a treatment while the other does not. The group that receives the treatment in an experiment is called the treatment/experimental group, while the group that does not receive the treatment is called the control group. The control group provides a baseline that lets us see if the treatment has an effect.
 
@@ -43,6 +43,14 @@ There are two groups in the experiment, and they are identical except that one r
 ![](figures/L17/L17_3.png){fig-align="center"}
 
 ![](figures/L17/L17_2.webp){fig-align="center"}
+
+#### Example: Vitamin B Energy Study
+
+Researchers want to know if adults who consume a drink that is high in vitamin B-12 have increased energy. They obtain a representative sample of adults. All participants are given a drink that they are told to consume every morning. They are not told what is in the drink. Half are given a drink that is high in vitamin B-12 while the other half are given a drink that tastes the same but contains no vitamin B-12.
+
+The participants who received the drink with no vitamin B-12 are the placebo group. The purpose of the placebo group in this study is to make the two groups equivalent except for the presence of the vitamin B-12. By comparing these two groups, the researchers will be able to determine what impact the vitamin B-12 had on the response variable. We could also say that this served as a control group because this group did not receive any active ingredients.
+
+![](figures/L17/L17_4.jpg){fig-align="center"}
 
 ### First example of a natural experiment
 
