@@ -34,13 +34,23 @@ The key difference between an experiment in economics and an experiment in physi
 
 -   However, this year’s Laureates have shown that it is possible to answer these and similar questions using natural experiments. The key is to use situations in which chance events or policy changes result in groups of people being treated differently, in a way that resembles clinical trials in medicine.
 
+### Treatment/experimental and Control Groups
+
+There are two groups in the experiment, and they are identical except that one receives a treatment while the other does not. The group that receives the treatment in an experiment is called the treatment/experimental group, while the group that does not receive the treatment is called the control group. The control group provides a baseline that lets us see if the treatment has an effect.
+
+![](figures/L17/L17_1.png){fig-align="center"}
+
+![](figures/L17/L17_3.png){fig-align="center"}
+
+![](figures/L17/L17_2.webp){fig-align="center"}
+
 ### First example of a natural experiment
 
 -   Let us use a **concrete example to illustrate how a natural experiment works**. One question that is relevant to both society and to young people considering their future, is how much more you would earn if you chose to study longer. An initial attempt to answer this question could involve looking at data on how people’s earnings relate to their education. In every conceivable context, people with more years of education have higher incomes. For example, for men born in the US during the 1930s, earnings were, on average, seven per cent higher for those with one additional year of education.
 
-![](figures/L17/Education.png){fig-align="center" width="994"}
-
 -   So, **can we conclude that an extra year of education adds an extra seven per cent on your income?** The answer to this question is no – people who choose a long education differ in many ways from those who choose a short education. For example, some people may be talented at studying and at working. These people are likely to continue studying, but they would still probably have had a high income even if they hadn’t. It may also be the case that only people who expect education to pay off choose to study longer.
+
+![](figures/L17/Education.png){fig-align="center" width="994"}
 
 -   So, **how can we use a natural experiment to examine whether additional years of education affect future income?** Joshua Angrist and his colleague Alan Krueger (now deceased) showed how this could be done in a landmark article. In the US, children can leave school when they turn 16 or 17, depending on the state where they go to school. Because all children who are born in a particular calendar year start school on the same date, children who are born early in the year can leave school sooner than children born later in the year. When Angrist and Krueger compared people born in the first and fourth quarters of the year, they saw that the first group had, on average, spent less time in education. People born in the first quarter also had lower incomes than those born in the fourth quarter. As adults they thus had both less education and lower incomes than those born late in the year.
 
