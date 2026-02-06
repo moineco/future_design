@@ -1,4 +1,4 @@
-# How Institutions Affect Economic Development?
+# How institutions affect economic development?
 
 The Prize in Economic Sciences 2024 – Daron Acemoglu, Simon Johnson and James Robinson – have demonstrated the importance of societal institutions for a country’s prosperity. Societies with a poor rule of law and institutions that exploit the population do not generate growth or change for the better. The laureates’ research helps us understand why.
 
@@ -10,7 +10,7 @@ The most trite yet crucial question in the field of economic growth and developm
 
 ## What is institution
 
-An institution is a system of social factors that conjointly generate a regularity of behavior. For instance; government, university,  bank etc. 
+An institution is a system of social factors that conjointly generate a regularity of behavior. For instance; government, university, bank etc.
 
 ### How institutions are formed and affect prosperity
 
@@ -19,9 +19,9 @@ When Europeans colonized large parts of the globe, the institutions in those soc
 -   In some places the **aim was to exploit the indigenous population and extract resources** for the colonizers’ benefit.
 -   In others, the colonizers **formed inclusive political and economic systems** for the long-term benefit of European migrants.
 
-1. **Examples of extractive colonies** include the Democratic Republic of Congo, Peru, Bolivia, India, and much of Sub-Saharan Africa. In these places, European colonizers established institutions designed to extract natural resources and labor from indigenous populations. These institutions often relied on forced labor, heavy taxation, and limited protection of property rights for the majority of the population. Political power was highly concentrated, and economic opportunities were restricted to a small elite.
+1.  **Examples of extractive colonies** include the Democratic Republic of Congo, Peru, Bolivia, India, and much of Sub-Saharan Africa. In these places, European colonizers established institutions designed to extract natural resources and labor from indigenous populations. These institutions often relied on forced labor, heavy taxation, and limited protection of property rights for the majority of the population. Political power was highly concentrated, and economic opportunities were restricted to a small elite.
 
-2. **Examples of inclusive colonies** include the United States, Canada, Australia, and New Zealand. In these settler colonies, Europeans established institutions that protected private property, enforced the rule of law, and allowed broad participation in economic and political activities. These institutions encouraged investment, innovation, and human capital accumulation.
+2.  **Examples of inclusive colonies** include the United States, Canada, Australia, and New Zealand. In these settler colonies, Europeans established institutions that protected private property, enforced the rule of law, and allowed broad participation in economic and political activities. These institutions encouraged investment, innovation, and human capital accumulation.
 
 According to Acemoglu, Johnson, and Robinson, the key determinant of these differences was settler mortality. In regions where European settlers faced high mortality due to disease, they were unlikely to settle permanently and instead set up extractive institutions. In regions with low settler mortality, Europeans settled in large numbers and created inclusive institutions resembling those in Europe.
 
@@ -29,15 +29,15 @@ The long-run economic outcomes of these two groups of countries differ sharply. 
 
 ![](figures/L18/L18_1.png){fig-align="center"}
 
-- Modern European colonialism began in the 15th century, when Spain and Portugal established overseas empires. By the early 20th century, it had peaked: the United Kingdom and France dominated, and nearly 100 modern-day countries were under European control, mostly in Africa, Asia, and the Caribbean.
+-   Modern European colonialism began in the 15th century, when Spain and Portugal established overseas empires. By the early 20th century, it had peaked: the United Kingdom and France dominated, and nearly 100 modern-day countries were under European control, mostly in Africa, Asia, and the Caribbean.
 
-- As the chart shows, this changed rapidly after World War II. A wave of decolonization spread across the world, especially in the 1950s and 1960s. Colonies became independent countries, formed their own governments, joined international institutions, and started having their own voice in global decisions.
+-   As the chart shows, this changed rapidly after World War II. A wave of decolonization spread across the world, especially in the 1950s and 1960s. Colonies became independent countries, formed their own governments, joined international institutions, and started having their own voice in global decisions.
 
-- Colonial expansion by Europeans into Africa, Asia, Australia, the Caribbean and Pacific Islands, and North and South America profoundly shaped minority experiences in these areas of the world. Europeans were eager to move to new territories opened to them by exploration to seek freedom and economic opportunities.
+-   Colonial expansion by Europeans into Africa, Asia, Australia, the Caribbean and Pacific Islands, and North and South America profoundly shaped minority experiences in these areas of the world. Europeans were eager to move to new territories opened to them by exploration to seek freedom and economic opportunities.
 
-- The laureates have shown that one explanation for differences in countries’ prosperity is the societal institutions that were introduced during colonization. Inclusive institutions were often introduced in countries that were poor when they were colonized, over time resulting in a generally prosperous population. This is an important reason for why former colonies that were once rich are now poor, and viceversa.
+-   The laureates have shown that one explanation for differences in countries’ prosperity is the societal institutions that were introduced during colonization. Inclusive institutions were often introduced in countries that were poor when they were colonized, over time resulting in a generally prosperous population. This is an important reason for why former colonies that were once rich are now poor, and viceversa.
 
-- Some countries become trapped in a situation with extractive institutions and low economic growth. The introduction of inclusive institutions would create long-term benefits for everyone, but extractive institutions provide short-term gains for the people in power. As long as the political system guarantees they will remain in control, no one will trust their promises of future economic reforms. According to the laureates, this is why no improvement occurs.
+-   Some countries become trapped in a situation with extractive institutions and low economic growth. The introduction of inclusive institutions would create long-term benefits for everyone, but extractive institutions provide short-term gains for the people in power. As long as the political system guarantees they will remain in control, no one will trust their promises of future economic reforms. According to the laureates, this is why no improvement occurs.
 
 ### Economic institutions matter for economic growth
 

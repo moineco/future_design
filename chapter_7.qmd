@@ -1,8 +1,6 @@
-# Population Growth and Well-Being
+# Population growth and well-being
 
 ## World population is increasing steadily
-
-\[世界人口は着実に増加している\]
 
 The world population has been steadily growing over the past few decades. According to the United Nations, the world population reached 7.9 billion in 2021 and is expected to reach 9.7 billion by 2050.
 
@@ -15,8 +13,6 @@ Population growth has a significant impact on a wide range of issues, including 
 -   Current World Population: <https://www.worldometers.info/world-population/>
 
 ## World population density
-
-\[世界の人口密度\]
 
 The population density of the world varies greatly from region to region, with some areas being densely populated and others being sparsely populated.
 

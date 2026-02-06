@@ -1,4 +1,4 @@
-# Future Failures: Disruption of C-Cycle and N-Cycle
+# Future failures: Disruption of C-cycle and N-cycle
 
 About 99% of the mass of the human body is made up of six elements: oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus.
 
