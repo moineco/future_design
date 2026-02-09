@@ -30,17 +30,17 @@ Why did the researchers choose to use field experiments? Well, if you want to ex
 
 Below, we provide a few examples of specific conclusions drawn from the type of research initiated by the Laureates, with the emphasis on their own studies.
 
-#### Education:
+#### Education
 
 We now have a clear perspective on the core problems in many poor country’s schools. Curricula and teaching do not correspond to pupils’ needs. There is a high level of absenteeism among teachers and educational institutions are generally weak. The above mentioned study by Banerjee, Duflo, et al. showed that targeted support for weak pupils had strong positive effects, even in the medium term. This study was the start of an interactive process, in which new research results went hand in hand with increasingly large-scale programmes to support pupils. These programmes have now reached more than 100,000 Indian schools. Other field experiments investigated the lack of clear incentives and accountability for teachers, which was reflected in a high level of absenteeism. One way of boosting the teachers’ motivation was to employ them on short-term contracts that could be extended if they had good results. Duflo, Kremer et al. compared the effects of employing teachers on these terms with lowering the pupil-teacher ratio by having fewer pupils per permanently employed teacher. They found that pupils who had teachers on short-term contracts had significantly better test results, but that having fewer pupils per permanently employed teacher had no significant effects. Overall, this new, experiment-based research on education in low-income countries shows that additional resources are, in general, of limited value. However, educational reforms that adapt teaching to pupils’ needs are of great value. Improving school governance and demanding responsibility from teachers who are not doing their job are also cost-effective measures.
 
-> WORMS: IDENTIFYING IMPACTS ON EDUCATION AND HEALTHIN THE PRESENCE OF TREATMENT EXTERNALITIESBY E DWARD M IGUEL AND M ICHAEL K REMER 
+> WORMS: IDENTIFYING IMPACTS ON EDUCATION AND HEALTH IN THE PRESENCE OF TREATMENT EXTERNALITIES BY E DWARD M IGUEL AND M ICHAEL K REMER 
 
 Intestinal helminths—including hookworm, roundworm, whipworm, and schistoso-miasis—infect more than one-quarter of the world’s population. Studies in which medical treatment is randomized at the individual level potentially doubly underestimate the beneﬁts of treatment, missing externality beneﬁts to the comparison group from reduced disease transmission, and therefore also underestimating beneﬁts for the treatment group. We evaluate a Kenyan project in which school-based mass treatment with deworming drugs was randomly phased into schools, rather than to individuals, allowing estimation of overall program effects. The program reduced school absenteeism in treatment schools by one-quarter, and was far cheaper than alternative ways of boosting school participation. Deworming substantially improved health and school participation among untreated children in both treatment schools and neighboring schools,and these externalities are large enough to justify fully subsidizing treatment. Yet we do not ﬁnd evidence that deworming improved academic test scores.
 
 KEYWORDS : Health, education, Africa, externalities, randomized evaluation, worms.
 
-#### Health:
+#### Health
 
 One important issue is whether medicine and healthcare should be charged for and, if so, what they should cost. A field experiment by Kremer and co-author investigated how the demand for deworming pills for parasitic infections was affected by price. They found that 75 per cent of parents gave their children these pills when the medicine was free, compared to 18 per cent when they cost less than a US dollar, which is still heavily subsidised. Subsequently, many similar experiments have found the same thing: poor people are extremely price-sensitive regarding investments in preventive healthcare Low service quality is another explanation why poor families invest so little in preventive measures. One example is that staff at the health centres that are responsible for vaccinations are often absent from work. Banerjee, Duflo et al. investigated whether mobile vaccination clinics – where the care staff were always on site – could fix this problem. Vaccination rates tripled in the villages that were randomly selected to have access to these clinics, at 18 per cent compared to 6 per cent. This increased further, to 39 per cent, if families received a bag of lentils as a bonus when they vaccinated their children. Because the mobile clinic had a high level of fixed costs, the total cost per vaccination actually halved, despite the additional expense of the lentils.
 
@@ -50,7 +50,7 @@ Miguel, E., & Kremer, M. (2004). Worms: identifying impacts on education and hea
 
 <!-- ![](figures/L21/L21_4.jpg){fig-align="center"} -->
 
-#### Microcredit:
+#### Microcredit
 
 Development economists have also used field experiments to evaluate programmes that have already been implemented on a large scale. One example is the massive introduction of micro-loans in various countries, which has been the source of great optimism. Banerjee, Duflo et al. performed an initial study on a micro-credit programme that focused on poor households in the Indian metropolis of Hyderabad. Their field experiments showed rather small positive effects on investments in existing small businesses, but they found no effects on consumption or other development indicators, neither at 18 nor at 36 months. Similar field experiments, in countries such as Bosnia-Herzegovina, Ethiopia, Morocco, Mexico and Mongolia, have found similar results.
 
@@ -67,7 +67,7 @@ Microcredit is primarily targeted at individuals excluded from the traditional b
 
 Reference: Banerjee, A., Duflo, E., Glennerster, R., & Kinnan, C. (2015). The miracle of microfinance? Evidence from a randomized evaluation. American economic journal: Applied economics, 7(1), 22-53.
 
-### Takeaway:
+### Takeaway
 
 Poverty persists despite billions spent, partly because well-intentioned aid often lacks proof of real impact. Randomized controlled trials, like those used in medicine, reveal which solutions save lives and boost education. Simple interventions—such as giving lentils to encourage immunization or providing free bed nets—can multiply results at lower cost. Evidence from these experiments now guides smarter policies that move beyond intuition and ideology.
 
